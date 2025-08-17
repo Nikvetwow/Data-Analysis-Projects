@@ -1,0 +1,1001 @@
+customerID,gender,is_male,SeniorCitizen,Partner,has_partner,Dependents,has_dependents,PhoneService,has_phone,InternetService,fiber_optic,OnlineSecurity,has_security,StreamingTV,streams_tv,Contract,is_monthly
+7590-VHVEG,Female,0,0,Yes,1,No,0,No,0,DSL,0,No,0,No,0,Month-to-month,1
+5575-GNVDE,Male,1,0,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,"One year",0
+3668-QPYBK,Male,1,0,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+7795-CFOCW,Male,1,0,No,0,No,0,No,0,DSL,0,Yes,1,No,0,"One year",0
+9237-HQITU,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+9305-CDSKC,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+1452-KIOVK,Male,1,0,No,0,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+6713-OKOMC,Female,0,0,No,0,No,0,No,0,DSL,0,Yes,1,No,0,Month-to-month,1
+7892-POOKP,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+6388-TABGU,Male,1,0,No,0,Yes,1,Yes,1,DSL,0,Yes,1,No,0,"One year",0
+9763-GRSKD,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+7469-LKBCI,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+8091-TTVAX,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+0280-XJGEX,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+5129-JLPIS,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+3655-SNQYZ,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+8191-XWSZG,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+9959-WOFKT,Male,1,0,No,0,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+4190-MFLUW,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+4183-MYFRB,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+8779-QRDMV,Male,1,1,No,0,No,0,No,0,DSL,0,No,0,No,0,Month-to-month,1
+1680-VDCWW,Male,1,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+1066-JKSGK,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+3638-WEABW,Female,0,0,Yes,1,No,0,Yes,1,DSL,0,No,0,No,0,"Two year",0
+6322-HRPFA,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+6865-JZNKO,Female,0,0,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+6467-CHFZW,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+8665-UTDHZ,Male,1,0,Yes,1,Yes,1,No,0,DSL,0,No,0,No,0,Month-to-month,1
+5248-YGIJN,Male,1,0,Yes,1,No,0,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+8773-HHUOZ,Female,0,0,No,0,Yes,1,Yes,1,DSL,0,No,0,Yes,1,Month-to-month,1
+3841-NFECX,Female,0,1,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,"Two year",0
+4929-XIHVW,Male,1,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+6827-IEAUQ,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,"One year",0
+7310-EGVHZ,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+3413-BMNZE,Male,1,1,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+6234-RAAPL,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+6047-YHPVI,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+6572-ADKRS,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+5380-WJKOV,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+8168-UQWWF,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+8865-TNMNX,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,No,0,No,0,"One year",0
+9489-DEDVP,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+9867-JCZSP,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+4671-VJLCL,Female,0,0,No,0,No,0,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+4080-IIARD,Female,0,0,Yes,1,No,0,Yes,1,DSL,0,Yes,1,Yes,1,Month-to-month,1
+3714-NTNFO,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+5948-UJZLF,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+7760-OYPDY,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+7639-LIAYI,Male,1,0,No,0,No,0,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+2954-PIBKO,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,"Two year",0
+8012-SOUDQ,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+9420-LOJKX,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+6575-SUVOI,Female,0,1,Yes,1,No,0,Yes,1,DSL,0,Yes,1,Yes,1,Month-to-month,1
+7495-OOKFY,Female,0,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+4667-QONEA,Female,0,1,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,"One year",0
+1658-BYGOY,Male,1,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+8769-KKTPH,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+5067-XJQFU,Male,1,1,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+3957-SQXML,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+5954-BDFSG,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"Two year",0
+0434-CSFON,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+1215-FIGMP,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+0526-SXDJP,Male,1,0,Yes,1,No,0,No,0,DSL,0,Yes,1,No,0,"Two year",0
+0557-ASKVU,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,No,0,No,0,"One year",0
+5698-BQJOH,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+5122-CYFXA,Female,0,0,No,0,No,0,Yes,1,DSL,0,No,0,Yes,1,Month-to-month,1
+8627-ZYGSZ,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,"One year",0
+3410-YOQBQ,Female,0,0,No,0,No,0,Yes,1,DSL,0,No,0,Yes,1,"Two year",0
+3170-NMYVV,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+7410-OIEDU,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+2273-QCKXA,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+0731-EBJQB,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+1891-QRQSA,Male,1,1,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+8028-PNXHQ,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+5630-AHZIL,Female,0,0,No,0,Yes,1,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+2673-CXQEU,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+6416-JNVRK,Female,0,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,"One year",0
+5590-ZSKRV,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+0191-ZHSKZ,Male,1,1,No,0,No,0,Yes,1,DSL,0,Yes,1,Yes,1,Month-to-month,1
+3887-PBQAO,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+5919-TMRGD,Female,0,0,No,0,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+8108-UXRQN,Female,0,0,Yes,1,Yes,1,No,0,DSL,0,Yes,1,Yes,1,Month-to-month,1
+9191-MYQKX,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+9919-YLNNG,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+0318-ZOPWS,Female,0,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+4445-ZJNMU,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+4808-YNLEU,Female,0,0,Yes,1,No,0,Yes,1,DSL,0,Yes,1,Yes,1,"One year",0
+1862-QRWPE,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+2796-NNUFI,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+3016-KSVCP,Male,1,0,Yes,1,No,0,No,0,DSL,0,No,0,Yes,1,Month-to-month,1
+4767-HZZHQ,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+2424-WVHPL,Male,1,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+7233-PAHHL,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+6067-NGCEU,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+9848-JQJTX,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"Two year",0
+8637-XJIVR,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+9803-FTJCG,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,"One year",0
+0278-YXOOG,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+3212-KXOCR,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+4598-XLKNJ,Female,0,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+6380-ARCEH,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+3679-XASPY,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+7123-WQUHX,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+5386-THSLQ,Female,0,1,Yes,1,No,0,No,0,DSL,0,No,0,Yes,1,"One year",0
+3192-NQECA,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"Two year",0
+6180-YBIQI,Male,1,0,No,0,No,0,No,0,DSL,0,No,0,No,0,Month-to-month,1
+6728-DKUCO,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+9750-BOOHV,Female,0,0,No,0,No,0,No,0,DSL,0,Yes,1,No,0,"One year",0
+8597-CWYHH,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+2848-YXSMW,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+0486-HECZI,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+4549-ZDQYY,Female,0,0,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,"One year",0
+5712-AHQNN,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+4846-WHAFZ,Female,0,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+5256-SKJGO,Female,0,0,Yes,1,Yes,1,No,0,DSL,0,No,0,Yes,1,"Two year",0
+3071-VBYPO,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+9560-BBZXK,Female,0,0,No,0,No,0,No,0,DSL,0,Yes,1,No,0,"Two year",0
+5299-RULOA,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+8402-OOOHJ,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+9445-ZUEQE,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+1091-SOZGA,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+2928-HLDBA,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+0404-SWRVG,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+6497-TILVL,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+7219-TLZHO,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+4622-YNKIJ,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+4412-YLTKF,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+6734-PSBAW,Male,1,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+3930-ZGWVE,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+2639-UGMAZ,Male,1,1,No,0,No,0,No,0,DSL,0,Yes,1,Yes,1,"One year",0
+2876-GZYZC,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+6207-WIOLX,Female,0,0,Yes,1,Yes,1,No,0,DSL,0,Yes,1,Yes,1,Month-to-month,1
+8587-XYZSF,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,"Two year",0
+3091-FYHKI,Male,1,0,No,0,No,0,No,0,DSL,0,No,0,No,0,Month-to-month,1
+2372-HWUHI,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+7799-LGRDP,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+7850-VWJUU,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+3774-VBNXY,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+6217-KDYWC,Male,1,0,No,0,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+0390-DCFDQ,Female,0,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+3146-MSEGF,Female,0,1,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+4080-OGPJL,Female,0,0,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+1095-WGNGG,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"Two year",0
+2636-SJDOU,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,"One year",0
+1131-QQZEB,Male,1,1,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+5716-EZXZN,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+6837-BJYDQ,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+2135-RXIHG,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+6440-DKQGE,Male,1,0,No,0,Yes,1,Yes,1,DSL,0,No,0,Yes,1,"One year",0
+3466-BYAVD,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+3780-YVMFA,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,No,0,Yes,1,Month-to-month,1
+3874-EQOEP,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+1679-JRFBR,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+9073-ZZIAY,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+3077-RSNTJ,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+6551-GNYDG,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+9167-APMXZ,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+2749-CTKAJ,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+6371-NZYEG,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+7554-NEWDD,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+8992-VONJD,Female,0,0,No,0,Yes,1,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+0867-MKZVY,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+4482-EWFMI,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+4648-YPBTM,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,"Two year",0
+2907-ILJBN,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+6345-FZOQH,Male,1,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+3376-BMGFE,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+5997-OPVFA,Male,1,0,Yes,1,No,0,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+3445-HXXGF,Male,1,1,Yes,1,No,0,No,0,DSL,0,No,0,No,0,Month-to-month,1
+1159-WFSGR,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+7654-YWJUF,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,"One year",0
+1875-QIVME,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+6727-IOTLZ,Male,1,0,Yes,1,No,0,Yes,1,DSL,0,No,0,Yes,1,"Two year",0
+0691-JVSYA,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+5918-VUKWP,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+1744-JHKYS,Female,0,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+2656-FMOKZ,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+2070-FNEXE,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+5947-SGKCL,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+3712-PKXZA,Male,1,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+6317-YPKDH,Female,0,0,No,0,No,0,No,0,DSL,0,No,0,No,0,Month-to-month,1
+6582-OIVSP,Female,0,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+9367-WXLCH,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+5524-KHNJP,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"One year",0
+1918-ZBFQJ,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+1024-GUALD,Female,0,0,Yes,1,No,0,No,0,DSL,0,No,0,No,0,Month-to-month,1
+4827-USJHP,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+8167-GJLRN,Male,1,0,No,0,No,0,No,0,DSL,0,No,0,No,0,Month-to-month,1
+0956-SYCWG,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+8017-UVSZU,Female,0,0,Yes,1,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+7100-FQPRV,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,"One year",0
+2472-OVKUP,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+2984-RGEYA,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+9680-NIAUV,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+2146-EGVDT,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+2604-IJPDU,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+9178-JHUVJ,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+6168-YBYNP,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+7255-SSFBC,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,"Two year",0
+3645-DEYGF,Male,1,0,No,0,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+9323-HGFWY,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+8544-GOQSH,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+3363-DTIVD,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+7018-WBJNK,Male,1,0,No,0,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+9142-KZXOP,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+7674-YTAFD,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,"One year",0
+6348-SNFUS,Male,1,0,Yes,1,Yes,1,No,0,DSL,0,Yes,1,No,0,"Two year",0
+1285-OKIPP,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+7825-ECJRF,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+1347-KTTTA,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+7841-TZDMQ,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+4195-NZGTA,Female,0,0,No,0,No,0,No,0,DSL,0,No,0,No,0,Month-to-month,1
+7157-SMCFK,Male,1,0,No,0,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+4709-LKHYG,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+2504-DSHIH,Male,1,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+0699-NDKJM,Female,0,0,Yes,1,No,0,No,0,DSL,0,Yes,1,Yes,1,Month-to-month,1
+9286-BHDQG,Male,1,0,Yes,1,Yes,1,No,0,DSL,0,Yes,1,No,0,"Two year",0
+0230-WEQUW,Male,1,0,Yes,1,No,0,No,0,DSL,0,Yes,1,Yes,1,"Two year",0
+2040-LDIWQ,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,No,0,Yes,1,"Two year",0
+6496-JDSSB,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+9408-SSNVZ,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+4443-EMBNA,Female,0,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+6469-MRVET,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+0742-MOABM,Male,1,0,Yes,1,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+5961-VUSRV,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+6778-JFCMK,Male,1,0,No,0,No,0,No,0,DSL,0,Yes,1,Yes,1,"One year",0
+6341-JVQGF,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"One year",0
+2232-DMLXU,Female,0,0,Yes,1,No,0,Yes,1,DSL,0,No,0,Yes,1,Month-to-month,1
+4811-JBUVU,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+0945-TSONX,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+2651-ZCBXV,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+3316-UWXUY,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+8937-RDTHP,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+7083-MIOPC,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+1984-GPTEH,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+1251-KRREG,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+0621-JFHOL,Female,0,0,No,0,No,0,No,0,DSL,0,No,0,No,0,"Two year",0
+9903-LYSAB,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+0094-OIFMO,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+9227-UAQFT,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+7301-ABVAD,Female,0,0,No,0,No,0,Yes,1,DSL,0,No,0,Yes,1,"Two year",0
+6614-FHDBO,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"Two year",0
+7576-ASEJU,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"One year",0
+9058-HRZSV,Female,0,1,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+4522-AKYLR,Female,0,1,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+0221-WMXNQ,Male,1,1,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+0303-UNCIP,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,"One year",0
+9947-OTFQU,Male,1,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+0322-YINQP,Male,1,0,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+0959-WHOKV,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,"One year",0
+4075-JFPGR,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+4629-NRXKX,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+9514-JDSKI,Male,1,1,Yes,1,No,0,No,0,DSL,0,No,0,Yes,1,Month-to-month,1
+3282-ZISZV,Male,1,0,No,0,Yes,1,Yes,1,DSL,0,No,0,Yes,1,"One year",0
+3675-YDUPJ,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+4111-BNXIF,Female,0,0,Yes,1,Yes,1,No,0,DSL,0,No,0,Yes,1,"Two year",0
+7017-VFHAY,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+6655-LHBYW,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+4959-JOSRX,Female,0,0,Yes,1,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+5046-NUHWD,Female,0,1,Yes,1,No,0,No,0,DSL,0,Yes,1,No,0,Month-to-month,1
+7273-TEFQD,Male,1,1,No,0,No,0,No,0,DSL,0,No,0,No,0,Month-to-month,1
+3606-TWKGI,Male,1,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+7529-ZDFXI,Male,1,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+7605-BDWDC,Female,0,0,No,0,No,0,No,0,DSL,0,Yes,1,No,0,"Two year",0
+1950-KSVVJ,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+0123-CRBRT,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+6292-TOSSS,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+3197-ARFOY,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+6323-AYBRX,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+7014-ZZXAW,Female,0,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+4385-GZQXV,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+7633-MVPUY,Male,1,0,Yes,1,No,0,Yes,1,DSL,0,Yes,1,No,0,"Two year",0
+6366-ZGQGL,Male,1,0,No,0,No,0,No,0,DSL,0,No,0,No,0,Month-to-month,1
+4716-HHKQH,Male,1,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+5940-AHUHD,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+6432-TWQLB,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+4484-GLZOU,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+3179-GBRWV,Male,1,1,Yes,1,No,0,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+8645-KWHJO,Male,1,0,No,0,No,0,No,0,DSL,0,No,0,Yes,1,Month-to-month,1
+4130-MZLCC,Female,0,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+0314-TKOSI,Female,0,0,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+8229-MYEJZ,Female,0,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+2080-SRCDE,Female,0,0,No,0,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+9577-WJVCQ,Female,0,0,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+9512-UIBFX,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+6202-DYYFX,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,"One year",0
+3808-HFKDE,Female,0,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+5583-SXDAG,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+3488-PGMQJ,Male,1,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+3580-REOAC,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+7534-BFESC,Male,1,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+3727-OWVYD,Male,1,0,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,"One year",0
+2294-SALNE,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,"One year",0
+4847-TAJYI,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+1563-IWQEX,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+8203-XJZRC,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+6556-DBKZF,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,"Two year",0
+6851-WEFYX,Male,1,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+2985-JUUBZ,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,No,0,Yes,1,Month-to-month,1
+6390-DSAZX,Female,0,0,No,0,Yes,1,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+0895-LMRSF,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,Yes,1,"One year",0
+8098-LLAZX,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+8266-VBFQL,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+8181-YHCMF,Female,0,0,Yes,1,Yes,1,No,0,DSL,0,No,0,Yes,1,"Two year",0
+2240-HSJQD,Male,1,0,No,0,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+1248-DYXUB,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+0265-EDXBD,Male,1,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+4115-BNPJY,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,No,0,Yes,1,"Two year",0
+3167-SNQPL,Male,1,1,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+4091-TVOCN,Male,1,0,No,0,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"One year",0
+1098-TDVUQ,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+7277-OZCGZ,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+1557-EMYVT,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+2799-ARNLO,Female,0,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+7563-BIUPC,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+5027-YOCXN,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+3973-SKMLN,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+2321-OMBXY,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"One year",0
+2840-XANRC,Male,1,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+6745-JEFZB,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+5020-ZSTTY,Female,0,1,No,0,No,0,Yes,1,DSL,0,Yes,1,Yes,1,"One year",0
+9880-TDQAC,Female,0,0,Yes,1,Yes,1,No,0,DSL,0,No,0,Yes,1,"Two year",0
+8705-WZCYL,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+7102-JJVTX,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,"One year",0
+8626-PTQGE,Male,1,0,No,0,No,0,No,0,DSL,0,Yes,1,Yes,1,"Two year",0
+4983-CLMLV,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+5701-YVSVF,Female,0,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+5804-LEPIM,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+5697-GOMBF,Female,0,1,Yes,1,Yes,1,No,0,DSL,0,No,0,Yes,1,Month-to-month,1
+2739-CACDQ,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+9385-EHGDO,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+9498-FIMXL,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+2379-GYFLQ,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+0122-OAHPZ,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+2868-SNELZ,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+4322-RCYMT,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,No,0,No,0,"One year",0
+6680-NENYN,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"Two year",0
+2088-IEBAU,Female,0,0,No,0,No,0,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+7982-VCELR,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+1343-EHPYB,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+6035-BXTTY,Female,0,1,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+6885-PKOAM,Female,0,0,Yes,1,No,0,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+7520-HQWJU,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+9639-BUJXT,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+5924-SNGKP,Female,0,0,No,0,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+0021-IKXGC,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+2034-GDRCN,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+8966-SNIZF,Female,0,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+6243-OZGFH,Female,0,0,No,0,No,0,No,0,DSL,0,No,0,Yes,1,Month-to-month,1
+4654-DLAMQ,Female,0,1,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,"One year",0
+0513-RBGPE,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,"Two year",0
+5160-UXJED,Male,1,0,No,0,Yes,1,Yes,1,DSL,0,No,0,No,0,"One year",0
+4115-NZRKS,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+0219-YTZUE,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+0623-IIHUG,Female,0,1,No,0,No,0,No,0,DSL,0,Yes,1,Yes,1,Month-to-month,1
+4572-DVCGN,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+3351-NGXYI,Female,0,1,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+8984-EYLLL,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"Two year",0
+9057-MSWCO,Male,1,1,Yes,1,No,0,No,0,DSL,0,Yes,1,No,0,Month-to-month,1
+9833-TGFHX,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+9294-TDIPC,Male,1,0,No,0,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+5229-DTFYB,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"Two year",0
+0104-PPXDV,Male,1,0,Yes,1,No,0,Yes,1,DSL,0,No,0,No,0,"One year",0
+5176-LMJXE,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+3583-KRKMD,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+1010-DIAUQ,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+9069-LGEUL,Male,1,0,Yes,1,No,0,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+7302-ZHMHP,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+9571-EDEBV,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+3520-FJGCV,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+6563-VRERX,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+0259-GBZSH,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+6122-EFVKN,Male,1,0,No,0,Yes,1,No,0,DSL,0,Yes,1,No,0,"Two year",0
+2805-EDJPQ,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,"One year",0
+6862-CQUMB,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+7156-MXBJE,Female,0,0,No,0,No,0,Yes,1,DSL,0,No,0,Yes,1,"One year",0
+6158-HDPXZ,Male,1,0,No,0,No,0,No,0,DSL,0,No,0,No,0,Month-to-month,1
+9601-BRXPO,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+2863-IMQDR,Female,0,0,No,0,No,0,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+5686-CMAWK,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,"One year",0
+5651-CRHKQ,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,"One year",0
+6905-NIQIN,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+8204-YJCLA,Male,1,1,Yes,1,Yes,1,No,0,DSL,0,Yes,1,Yes,1,"Two year",0
+5167-ZFFMM,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+6583-SZVGP,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"Two year",0
+4895-TMWIR,Male,1,1,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+0533-BNWKF,Female,0,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+1708-PBBOA,Female,0,0,No,0,No,0,No,0,DSL,0,Yes,1,No,0,"One year",0
+8782-LKFPK,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+5522-JBWMO,Male,1,0,No,0,Yes,1,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+3597-MVHJT,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+9774-NRNAU,Male,1,1,Yes,1,No,0,Yes,1,DSL,0,No,0,Yes,1,Month-to-month,1
+0224-RLWWD,Female,0,1,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+9967-ATRFS,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+3951-NJCVI,Female,0,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+2977-CEBSX,Female,0,0,No,0,No,0,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+0177-PXBAT,Male,1,1,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+6599-CEBNN,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+2519-ERQOJ,Male,1,1,No,0,No,0,No,0,DSL,0,No,0,Yes,1,Month-to-month,1
+5876-QMYLD,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+2277-AXSDC,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+9442-JTWDL,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+0979-PHULV,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+3067-SVMTC,Female,0,0,Yes,1,No,0,Yes,1,DSL,0,Yes,1,No,0,"One year",0
+5495-GPSRW,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+7606-BPHHN,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+4742-DRORA,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+0111-KLBQG,Male,1,1,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+4800-VHZKI,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+7989-CHGTL,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+0334-GDDSO,Male,1,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+4163-NCJAK,Female,0,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+5233-AOZUF,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+5973-EJGDP,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+1996-DBMUS,Female,0,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+7916-VCCPB,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+4686-GEFRM,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,"Two year",0
+5249-QYHEX,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+0578-SKVMF,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+5564-NEMQO,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+2233-FAGXV,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+5605-IYGFG,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+7663-ZTEGJ,Male,1,0,No,0,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,"One year",0
+3935-TBRZZ,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+8111-BKVDS,Female,0,0,No,0,No,0,No,0,DSL,0,Yes,1,No,0,Month-to-month,1
+2055-SIFSS,Female,0,1,Yes,1,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+2806-MLNTI,Male,1,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+8734-DKSTZ,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+4360-PNRQB,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+6152-ONASV,Female,0,0,Yes,1,No,0,Yes,1,DSL,0,Yes,1,No,0,"One year",0
+9063-ZGTUY,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+7781-HVGMK,Female,0,0,Yes,1,Yes,1,No,0,DSL,0,Yes,1,Yes,1,"Two year",0
+2181-UAESM,Male,1,0,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+2957-LOLHO,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+6048-NJXHX,Male,1,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+2320-SLKMB,Female,0,0,No,0,No,0,No,0,DSL,0,No,0,Yes,1,Month-to-month,1
+4980-URKXC,Male,1,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+4376-KFVRS,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+5886-VLQVU,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+3577-AMVUX,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+0771-WLCLA,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+5628-RKIFK,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+0206-TBWLC,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+2937-FTHUR,Female,0,0,No,0,Yes,1,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+1910-FMXJM,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+7752-XUSCI,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+4110-PFEUZ,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+0732-OCQOC,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+5168-MSWXT,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+1090-ESELR,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+8592-PLTMQ,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+5760-WRAHC,Female,0,1,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+8847-GEOOQ,Male,1,0,Yes,1,No,0,No,0,DSL,0,No,0,Yes,1,Month-to-month,1
+0256-LTHVJ,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+4785-FCIFB,Female,0,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+8313-NDOIA,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+5149-CUZUJ,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+0942-KOWSM,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,No,0,Yes,1,"Two year",0
+4237-CLSMM,Male,1,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+1452-VOQCH,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+4719-UMSIY,Male,1,0,No,0,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+6614-VBEGU,Female,0,0,Yes,1,No,0,Yes,1,DSL,0,No,0,Yes,1,Month-to-month,1
+0880-TKATG,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+3811-VBYBZ,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+1480-BKXGA,Male,1,1,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+2996-XAUVF,Male,1,0,No,0,No,0,No,0,DSL,0,No,0,No,0,"Two year",0
+9076-AXYIK,Male,1,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"Two year",0
+5968-XQIVE,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+8896-RAZCR,Female,0,0,No,0,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+4640-UHDOS,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+4933-IKULF,Female,0,1,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+3583-EKAPL,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+1304-BCCFO,Male,1,0,Yes,1,No,0,Yes,1,DSL,0,No,0,Yes,1,Month-to-month,1
+4104-PVRPS,Male,1,0,Yes,1,No,0,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+9399-APLBT,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+2359-KMGLI,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+3780-DDGSE,Male,1,1,Yes,1,Yes,1,Yes,1,DSL,0,No,0,Yes,1,Month-to-month,1
+4431-EDMIQ,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,Month-to-month,1
+0306-JAELE,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+6227-HWPWX,Female,0,0,No,0,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+0486-LGCCH,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+0447-BEMNG,Female,0,0,Yes,1,No,0,No,0,DSL,0,Yes,1,No,0,Month-to-month,1
+4612-SSVHJ,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+5168-MQQCA,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+5949-XIKAE,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+7971-HLVXI,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,"Two year",0
+9094-AZPHK,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+3649-JPUGY,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,Yes,1,"Two year",0
+4472-LVYGI,Female,0,0,Yes,1,Yes,1,No,0,DSL,0,Yes,1,Yes,1,"Two year",0
+8372-JUXUI,Male,1,0,No,0,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+3552-CTCYF,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,"Two year",0
+6778-YSNIH,Female,0,0,No,0,No,0,Yes,1,DSL,0,No,0,Yes,1,Month-to-month,1
+0388-EOPEX,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+5756-OZRIO,Male,1,1,Yes,1,No,0,Yes,1,DSL,0,No,0,No,0,"One year",0
+6579-JPICP,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+8205-OTCHB,Male,1,0,No,0,No,0,No,0,DSL,0,No,0,No,0,"One year",0
+4134-BSXLX,Male,1,0,Yes,1,No,0,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+0505-SPOOW,Female,0,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+6235-VDHOM,Female,0,1,No,0,No,0,No,0,DSL,0,No,0,No,0,Month-to-month,1
+7783-YKGDV,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+4374-YMUSQ,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+4513-CXYIX,Female,0,1,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,"Two year",0
+3957-HHLMR,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,"One year",0
+7803-XOCCZ,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+5736-YEJAX,Male,1,0,No,0,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+5609-CEBID,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+8981-FJGLA,Male,1,0,No,0,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+7218-HKQFK,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+4636-QRJKY,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+1135-LMECX,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+4332-MUOEZ,Male,1,1,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,No,0,"One year",0
+8535-SFUTN,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+5956-VKDTT,Female,0,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+8677-HDZEE,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+2475-MROZF,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+9412-GHEEC,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+3482-ABPKK,Female,0,0,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,"One year",0
+6705-LXORM,Female,0,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+0257-ZESQC,Female,0,1,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+7531-GQHME,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+5174-ITUMV,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+4109-CYRBD,Male,1,1,Yes,1,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+0913-XWSCN,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+6825-UYPFK,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+8397-MVTAZ,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+0750-EBAIU,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+8606-CIQUL,Male,1,1,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+3571-DPYUH,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+7601-GNDYK,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+0356-OBMAC,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"Two year",0
+8067-NIOYM,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+1403-GYAFU,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+4234-XTNEA,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+1297-VQDRP,Male,1,1,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+9282-IZGQK,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+5348-CAGXB,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+0621-HJWXJ,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+5844-QVTAT,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,"One year",0
+8905-IAZPF,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+5394-MEITZ,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,No,0,Yes,1,"Two year",0
+6859-QNXIQ,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+2782-LFZVW,Female,0,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+2866-IKBTM,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+1342-JPNKI,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+2817-NTQDO,Male,1,0,No,0,No,0,No,0,DSL,0,Yes,1,Yes,1,Month-to-month,1
+7129-AZJDE,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,"One year",0
+6986-IJDHX,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+2560-PPCHE,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+4676-MQUEA,Male,1,1,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+8138-EALND,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+3580-HYCSP,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+1352-HNSAW,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+2075-PUEPR,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+1982-FEBTD,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+5301-GAUUY,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+5791-KAJFD,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,"One year",0
+2654-VBVPB,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+1154-HYWWO,Male,1,0,No,0,No,0,Yes,1,DSL,0,Yes,1,Yes,1,"One year",0
+2501-XWWTZ,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+3716-UVSPD,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+6815-ABQFQ,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+7343-EOBEU,Male,1,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+3701-SFMUH,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,Month-to-month,1
+6103-LIANB,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,"Two year",0
+7319-VENRZ,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,Yes,1,Month-to-month,1
+5846-NEQVZ,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,"Two year",0
+6967-QIQRV,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+5781-RFZRP,Male,1,0,Yes,1,No,0,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+0939-YAPAF,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+0308-IVGOK,Female,0,0,No,0,No,0,No,0,DSL,0,No,0,No,0,"One year",0
+7293-LSCDV,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+7025-WCBNE,Male,1,1,No,0,No,0,Yes,1,DSL,0,No,0,No,0,"Two year",0
+5756-JYOJT,Female,0,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,"One year",0
+4710-FDUIZ,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+6030-REHUX,Female,0,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+9548-LIGTA,Male,1,0,Yes,1,No,0,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+5150-LJNSR,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+8270-RKSAP,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+6522-YRBXD,Male,1,1,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+2640-LYMOV,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+1218-VKFPE,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+3627-FHKBK,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+2865-TCHJW,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+1423-BMPBQ,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+2393-DIVAI,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+5192-EBGOV,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+4568-KNYWR,Male,1,0,No,0,No,0,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+8752-IMQOS,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+0742-LAFQK,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,"Two year",0
+0795-LAFGP,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+0619-OLYUR,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+5512-IDZEI,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+0459-SPZHJ,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+0215-BQKGS,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+9244-ZVAPM,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+0719-SYFRB,Female,0,0,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+8208-EUMTE,Male,1,0,No,0,No,0,No,0,DSL,0,Yes,1,Yes,1,"Two year",0
+5172-MIGPM,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+1710-RCXUS,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,"One year",0
+0374-FIUCA,Male,1,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+5839-SUYVZ,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+5173-ZXXXL,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+1096-ADRUX,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,"One year",0
+2001-MCUUW,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"Two year",0
+2731-GJRDG,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+4723-BEGSG,Male,1,0,Yes,1,No,0,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+6516-NKQBO,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+8672-OAUPW,Male,1,0,No,0,Yes,1,Yes,1,DSL,0,No,0,No,0,"One year",0
+8207-DMRVL,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+3419-SNJJD,Female,0,1,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+6543-CPZMK,Male,1,0,Yes,1,Yes,1,No,0,DSL,0,No,0,No,0,Month-to-month,1
+4765-OXPPD,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+2804-ETQDK,Male,1,0,No,0,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+6689-VRRTK,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+7138-GIRSH,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,"Two year",0
+9396-ZSFLL,Female,0,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+6464-KEXXH,Male,1,0,No,0,No,0,No,0,DSL,0,No,0,No,0,Month-to-month,1
+7134-MJPDY,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+5240-CAOYT,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+4059-IIEBK,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+4881-JVQOD,Male,1,1,Yes,1,Yes,1,No,0,DSL,0,No,0,No,0,Month-to-month,1
+0516-UXRMT,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,"One year",0
+4851-BQDNX,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+5148-HKFIR,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+1009-IRMNA,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+3003-CMDUU,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+5016-IBERQ,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+6797-UCJHZ,Female,0,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+2469-DTSGX,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"Two year",0
+4554-YGZIH,Male,1,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+5099-BAILX,Male,1,1,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+9931-KGHOA,Female,0,0,Yes,1,No,0,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+1775-KWJKQ,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+7665-VIGUD,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+9411-TPQQV,Female,0,0,No,0,No,0,No,0,DSL,0,Yes,1,Yes,1,"One year",0
+7207-RMRDB,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+7954-MLBUN,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"Two year",0
+2077-DDHJK,Female,0,0,Yes,1,No,0,Yes,1,DSL,0,Yes,1,No,0,"Two year",0
+4913-EHYUI,Male,1,1,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+0195-IESCP,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+9574-BOSMD,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+4580-TMHJU,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,No,0,Yes,1,Month-to-month,1
+0970-ETWGE,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+4908-XAXAY,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,"One year",0
+8404-VLQFB,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+1626-ERCMM,Male,1,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+0887-HJGAR,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+2391-IPLOP,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,No,0,Yes,1,"One year",0
+5644-PDMZC,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+3509-GWQGF,Male,1,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+9576-ANLXO,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+2024-BASKD,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+5845-BZZIB,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+1140-UKVZG,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+4160-AMJTL,Female,0,1,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+5183-SNMJQ,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+8100-PNJMH,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+7838-LAZFO,Male,1,0,Yes,1,No,0,Yes,1,DSL,0,Yes,1,Yes,1,"One year",0
+4464-JCOLN,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+2085-JVGAD,Male,1,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+5650-VDUDS,Female,0,0,No,0,No,0,No,0,DSL,0,No,0,No,0,Month-to-month,1
+8095-WANWK,Female,0,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+3030-ZKIWL,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+9565-FLVCG,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,"Two year",0
+8755-OGKNA,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+2800-VEQXM,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+7538-GWHML,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+5533-RJFTJ,Male,1,0,No,0,No,0,No,0,DSL,0,No,0,No,0,Month-to-month,1
+3859-CVCET,Female,0,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+0214-JHPFW,Female,0,0,Yes,1,No,0,No,0,DSL,0,No,0,Yes,1,"Two year",0
+5642-MHDQT,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+3088-FVYWK,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+3276-HDUEG,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+9092-GDZKO,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+0823-HSCDJ,Male,1,1,No,0,No,0,No,0,DSL,0,No,0,Yes,1,Month-to-month,1
+3729-OWRVL,Male,1,1,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+2324-AALNO,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+0822-GAVAP,Female,0,0,No,0,No,0,No,0,DSL,0,No,0,No,0,Month-to-month,1
+5760-IFJOZ,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+2826-UWHIS,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+1448-PWKYE,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+7501-IWUNG,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,No,0,Yes,1,"Two year",0
+4957-TREIR,Male,1,0,No,0,No,0,Yes,1,DSL,0,Yes,1,Yes,1,Month-to-month,1
+7251-LJBQN,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+8040-MNRTF,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+1536-HBSWP,Female,0,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+5313-FPXWG,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+0067-DKWBL,Male,1,1,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+0946-FKYTX,Male,1,0,No,0,No,0,No,0,DSL,0,No,0,No,0,"One year",0
+5076-YVXCM,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+8262-COGGB,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+6663-JOCQO,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,"One year",0
+9620-QJREV,Male,1,0,No,0,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+2276-YDAVZ,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+2682-KEVRP,Female,0,1,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+2480-JZOSN,Female,0,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+0078-XZMHT,Male,1,0,Yes,1,No,0,Yes,1,DSL,0,No,0,Yes,1,"Two year",0
+5896-NPFWW,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+9978-HYCIN,Male,1,1,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+8338-QIUNR,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,"Two year",0
+1525-LNLOJ,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,No,0,Yes,1,"Two year",0
+9450-TRJUU,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+1766-GKNMI,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+6942-LBFDP,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+1456-TWCGB,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+7133-VBDCG,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+7596-ZYWBB,Female,0,0,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,"Two year",0
+8329-UTMVM,Male,1,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+3014-WJKSM,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+3347-YJZZE,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,No,0,Yes,1,Month-to-month,1
+1029-QFBEN,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+7929-DMBCV,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+9661-JALZV,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+5433-KYGHE,Female,0,0,No,0,Yes,1,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+4312-KFRXN,Male,1,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+5575-TPIZQ,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+0114-IGABW,Female,0,0,Yes,1,No,0,No,0,DSL,0,No,0,Yes,1,"Two year",0
+9944-AEXBM,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+1853-ARAAQ,Female,0,0,No,0,No,0,No,0,DSL,0,No,0,Yes,1,Month-to-month,1
+6952-OMNWB,Male,1,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+4697-LUPSU,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+8434-VGEQQ,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+4952-YSOGZ,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+1589-AGTLK,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+5244-IRFIH,Male,1,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+6549-YMFAW,Male,1,1,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+4950-HKQTE,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+6786-OBWQR,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+2684-EIWEO,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+2753-JMMCV,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,"Two year",0
+6439-GTPCA,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+6621-YOBKI,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+1216-JWVUX,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+7564-GHCVB,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,No,0,"Two year",0
+1173-NOEYG,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+7595-EHCDL,Male,1,0,Yes,1,Yes,1,No,0,DSL,0,No,0,Yes,1,Month-to-month,1
+6647-ZEDXT,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+2521-NPUZR,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,"Two year",0
+1307-TVUFB,Male,1,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+7503-MIOGA,Female,0,1,Yes,1,No,0,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+4381-MHQDC,Female,0,0,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,"Two year",0
+6923-JHPMP,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+5138-WVKYJ,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+4018-PPNDW,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+1635-FJFCC,Female,0,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+2499-AJYUA,Female,0,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"Two year",0
+6919-ELBGL,Male,1,1,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+3966-HRMZA,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+6425-JWTDV,Male,1,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+8405-IGQFX,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+8224-IVVPA,Female,0,0,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+9477-LGWQI,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+1410-RSCMR,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+3115-CZMZD,Male,1,0,No,0,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+0139-IVFJG,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+6683-VLCTZ,Male,1,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+5730-DBDSI,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+0030-FNXPP,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+2189-WWOEW,Female,0,0,No,0,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+5684-FJVYR,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,No,0,"Two year",0
+4013-GUXND,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+1894-IGFSG,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+7379-POKDZ,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+1266-NZYUI,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,"Two year",0
+7969-FFOWG,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+4718-DHSMV,Female,0,0,No,0,No,0,No,0,DSL,0,No,0,Yes,1,Month-to-month,1
+5175-WLYXL,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+7817-OMJNA,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+8728-SKJLR,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+3137-NYQQI,Male,1,0,Yes,1,No,0,Yes,1,DSL,0,Yes,1,No,0,"One year",0
+7706-DZNKK,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+0236-HFWSV,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+3900-AQPHZ,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+5842-POCOP,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+2037-XJFUP,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+8823-RLPWL,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+9505-SQFSW,Female,0,0,Yes,1,Yes,1,No,0,DSL,0,No,0,No,0,Month-to-month,1
+7314-OXENN,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+3758-CKOQL,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,"One year",0
+0322-CHQRU,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+5676-CFLYY,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,No,0,Yes,1,"Two year",0
+7521-AFHAB,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+0285-INHLN,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+4678-DVQEO,Female,0,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+5125-CNDSP,Male,1,0,No,0,Yes,1,No,0,DSL,0,Yes,1,No,0,"One year",0
+0691-IFBQW,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+4992-LTJNE,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,"Two year",0
+2202-OUTMO,Female,0,0,Yes,1,No,0,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+0810-BDHAW,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"One year",0
+0229-LFJAF,Male,1,0,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,"Two year",0
+7131-ZQZNK,Female,0,0,Yes,1,Yes,1,No,0,DSL,0,Yes,1,Yes,1,"Two year",0
+3442-ZHHCC,Male,1,0,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,"One year",0
+5726-CVNYA,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+9871-ELEYA,Female,0,0,No,0,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+4257-GAESD,Female,0,0,No,0,No,0,No,0,DSL,0,No,0,Yes,1,Month-to-month,1
+5173-WXOQV,Male,1,0,Yes,1,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+2040-OBMLJ,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,"One year",0
+6286-ZHAOK,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+3807-XHCJH,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+3009-JWMPU,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+5671-RQRLP,Female,0,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,"Two year",0
+1450-GALXR,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+8859-AXJZP,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+3174-AKMAS,Female,0,0,Yes,1,No,0,Yes,1,DSL,0,No,0,Yes,1,"Two year",0
+3138-BKYAV,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+9926-PJHDQ,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,No,0,Yes,1,"Two year",0
+7382-DFJTU,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+2798-NYLMZ,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+4289-DTDKW,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+1820-TQVEV,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+2239-JALAW,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+4853-RULSV,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+8098-TDCBU,Female,0,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+3551-GAEGL,Male,1,0,Yes,1,Yes,1,No,0,DSL,0,Yes,1,No,0,"One year",0
+4785-NKHCX,Male,1,1,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+3196-NVXLZ,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+6275-YDUVO,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+0036-IHMOT,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+0115-TFERT,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+4178-EGMON,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,"Two year",0
+4220-TINQT,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+5318-YKDPV,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+7975-TZMLR,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+0295-QVKPB,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,Yes,1,Month-to-month,1
+4335-BSMJS,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+2311-QYMUQ,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+3643-AHCFP,Male,1,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+9146-JRIOX,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+3104-OWCGK,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+5337-IIWKZ,Male,1,0,Yes,1,Yes,1,No,0,DSL,0,No,0,Yes,1,Month-to-month,1
+9101-BWFSS,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+9650-VBUOG,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+3487-EARAT,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,"One year",0
+2672-TGEFF,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+9231-ZJYAM,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+4250-WAROZ,Male,1,1,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+8184-WMOFI,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,"One year",0
+6982-SSHFK,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+6092-QZVPP,Male,1,0,No,0,No,0,Yes,1,DSL,0,Yes,1,Yes,1,Month-to-month,1
+4625-LAMOB,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+0727-BMPLR,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+0392-BZIUW,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+1038-ZAGBI,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+6549-NNDYT,Female,0,0,No,0,No,0,No,0,DSL,0,Yes,1,No,0,Month-to-month,1
+3027-ZTDHO,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+0422-OHQHQ,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+6916-HIJSE,Female,0,0,No,0,No,0,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+2316-ESMLS,Female,0,0,Yes,1,Yes,1,No,0,DSL,0,Yes,1,No,0,"One year",0
+9778-OGKQZ,Male,1,0,Yes,1,No,0,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+7408-OFWXJ,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+6007-TCTST,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+2252-NKNSI,Male,1,0,No,0,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+8713-IGZSO,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+7905-TVXTA,Female,0,0,No,0,No,0,Yes,1,DSL,0,Yes,1,Yes,1,Month-to-month,1
+7695-PKLCZ,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+2382-BCKQJ,Female,0,0,No,0,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+8374-UULRV,Male,1,0,No,0,No,0,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+2207-NHRJK,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+3224-DFQNQ,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,"One year",0
+5275-PMFUT,Male,1,0,Yes,1,Yes,1,No,0,DSL,0,Yes,1,Yes,1,"Two year",0
+4795-UXVCJ,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+9777-IQHWP,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,No,0,"Two year",0
+0947-MUGVO,Male,1,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+9944-HKVVB,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+4124-MMETB,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+3671-SHRSP,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+0979-MOZQI,Male,1,0,Yes,1,No,0,No,0,DSL,0,No,0,Yes,1,"Two year",0
+2732-ISEZX,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+3313-QKNKB,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,"One year",0
+0323-XWWTN,Male,1,0,No,0,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+1937-OTUKY,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+1573-LGXBA,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+1764-VUUMT,Male,1,0,No,0,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+5073-WXOYN,Female,0,0,No,0,No,0,No,0,DSL,0,No,0,Yes,1,Month-to-month,1
+4713-ZBURT,Male,1,0,No,0,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,"Two year",0
+3050-GBUSH,Female,0,0,No,0,No,0,No,0,DSL,0,No,0,Yes,1,Month-to-month,1
+0207-MDKNV,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+7876-AEHIG,Female,0,0,No,0,Yes,1,No,0,DSL,0,Yes,1,Yes,1,"One year",0
+7945-HLKEA,Female,0,0,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,"One year",0
+9342-VNIMQ,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+9851-KIELU,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+3523-BRGUW,Male,1,1,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+3908-BLSYF,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+3199-NPKCN,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+5170-PTRKA,Female,0,0,Yes,1,Yes,1,No,0,DSL,0,Yes,1,No,0,"One year",0
+4661-NJEUX,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+2123-AGEEN,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+1258-YMZNM,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+0048-LUMLS,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+7549-MYGPK,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+5898-IGSLP,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+3804-RVTGV,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+6259-WJQLC,Male,1,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+9227-LUNBG,Female,0,0,No,0,No,0,No,0,DSL,0,No,0,No,0,Month-to-month,1
+7997-EASSD,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,"One year",0
+0730-KOAVE,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+8975-SKGRX,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+0678-RLHVP,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"Two year",0
+4315-MURBD,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+2267-FPIMA,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+1051-GEJLJ,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+9734-YWGEX,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+2719-BDAQO,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+5285-MVEHD,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+0379-DJQHR,Male,1,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+0781-LKXBR,Male,1,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+5543-QDCRY,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,Yes,1,Month-to-month,1
+0297-RBCSG,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,"One year",0
+4694-PHWFW,Female,0,0,No,0,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+0835-JKADZ,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"Two year",0
+1907-UBQFC,Male,1,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+7508-SMHXL,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+3865-YIOTT,Male,1,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"One year",0
+5993-BQHEA,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+6024-RUGGH,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+6513-EECDB,Male,1,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+3956-CJUST,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+4079-WWQQQ,Male,1,0,No,0,No,0,No,0,DSL,0,Yes,1,Yes,1,"Two year",0
+6103-BOCOU,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+5149-TGWDZ,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+7471-WNSUF,Male,1,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+8942-DBMHZ,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+4301-VVZKA,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+9199-PWQVC,Female,0,0,Yes,1,No,0,Yes,1,DSL,0,Yes,1,Yes,1,"One year",0
+4824-GUCBY,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+5393-HJZSM,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+7074-IEVOJ,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+9625-QSTYE,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+0862-PRCBS,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,"Two year",0
+8812-ZRHFP,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,No,0,"One year",0
+5146-CBVOE,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+0454-OKRCT,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,"Two year",0
+5787-KXGIY,Male,1,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+4750-ZRXIU,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+4198-VFOEA,Female,0,0,No,0,No,0,No,0,DSL,0,Yes,1,No,0,"One year",0
+6630-UJZMY,Female,0,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+5709-LVOEQ,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+6400-BWQKW,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,Month-to-month,1
+2692-AQCPF,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+0347-UBKUZ,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+0835-DUUIQ,Female,0,0,No,0,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+0811-GSDTP,Female,0,0,No,0,Yes,1,No,0,DSL,0,No,0,No,0,Month-to-month,1
+7567-ECMCM,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+6115-ZTBFQ,Female,0,0,Yes,1,No,0,No,0,DSL,0,Yes,1,Yes,1,"Two year",0
+6353-BRMMA,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+6680-WKXRZ,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+6231-WFGFH,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+9904-EHEVJ,Female,0,1,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+7028-DVOIQ,Male,1,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+6169-PPETC,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+4208-UFFGW,Male,1,1,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+8584-KMVXD,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+8467-WYNSR,Male,1,0,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+0851-DFJKB,Female,0,0,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+5382-SOYZL,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+9448-REEVD,Male,1,0,Yes,1,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+3261-CQXOL,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+8388-FYNPZ,Male,1,0,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+4002-BQWPQ,Male,1,0,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,Month-to-month,1
+5651-YLPRD,Female,0,0,Yes,1,Yes,1,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+2826-DXLQO,Male,1,1,Yes,1,No,0,No,0,DSL,0,Yes,1,No,0,Month-to-month,1
+4378-BZYFP,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+9489-UTFKA,Male,1,1,Yes,1,No,0,Yes,1,DSL,0,Yes,1,Yes,1,Month-to-month,1
+4849-PYRLQ,Female,0,1,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,"Two year",0
+9117-SHLZX,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+9889-TMAHG,Male,1,1,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+4541-RMRLG,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+7764-BDPEE,Male,1,0,No,0,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+3429-IFLEM,Female,0,0,No,0,No,0,Yes,1,DSL,0,Yes,1,Yes,1,"Two year",0
+3158-MOERK,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+7294-TMAOP,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+5002-GCQFH,Male,1,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,Month-to-month,1
+0556-FJEGU,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,Yes,1,"Two year",0
+8919-FYFQZ,Male,1,1,Yes,1,No,0,No,0,DSL,0,No,0,No,0,Month-to-month,1
+0604-THJFP,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,No,0,Yes,1,"Two year",0
+2834-JRTUA,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,Yes,1,Yes,1,"Two year",0
+5875-YPQFJ,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+5879-SESNB,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+6646-QVXLR,Male,1,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,"One year",0
+6461-PPAXN,Female,0,0,Yes,1,Yes,1,Yes,1,DSL,0,Yes,1,No,0,"One year",0
+3318-ISQFQ,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+1106-HRLKZ,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+2483-XSSMZ,Female,0,0,No,0,No,0,Yes,1,DSL,0,Yes,1,No,0,"One year",0
+8603-IJWDN,Male,1,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+8165-ZJRNM,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+9369-XFEHK,Female,0,1,Yes,1,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+2604-XVDAM,Female,0,0,No,0,No,0,Yes,1,DSL,0,No,0,No,0,Month-to-month,1
+3717-OFRTN,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+9046-JBFWA,Male,1,0,No,0,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,Month-to-month,1
+3280-NMUVX,Male,1,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"One year",0
+1206-EHBDD,Female,0,0,Yes,1,No,0,Yes,1,"Fiber optic",1,Yes,1,No,0,"Two year",0
+8361-LBRDI,Female,0,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+4883-KCPZJ,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+9108-EQPNQ,Female,0,0,Yes,1,Yes,1,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+7277-KAMWT,Male,1,0,No,0,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+3842-IYKUE,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+6641-XRPSU,Female,0,0,No,0,No,0,Yes,1,"Fiber optic",1,No,0,No,0,Month-to-month,1
+1374-DMZUI,Female,0,1,No,0,No,0,Yes,1,"Fiber optic",1,No,0,Yes,1,Month-to-month,1
+2545-LXYVJ,Male,1,0,Yes,1,No,0,Yes,1,No,0,"No internet service",0,"No internet service",0,"Two year",0
+3234-VKACU,Male,1,0,No,0,No,0,Yes,1,DSL,0,No,0,Yes,1,Month-to-month,1

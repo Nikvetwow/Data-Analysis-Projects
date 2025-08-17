@@ -1,0 +1,1001 @@
+customerID;MonthlyCharges;tenure;Contract;Churn;CustomerValue;RiskLevel
+7590-VHVEG;29.85;1;Month-to-month;No;29.85;Medium Risk
+5575-GNVDE;56.95;34;One year;No;1936.30;Low Risk
+3668-QPYBK;53.85;2;Month-to-month;Yes;107.70;High Risk
+7795-CFOCW;42.30;45;One year;No;1903.50;Low Risk
+9237-HQITU;70.70;2;Month-to-month;Yes;141.40;High Risk
+9305-CDSKC;99.65;8;Month-to-month;Yes;797.20;High Risk
+1452-KIOVK;89.10;22;Month-to-month;No;1960.20;Unknown Risk
+6713-OKOMC;29.75;10;Month-to-month;No;297.50;Medium Risk
+7892-POOKP;104.80;28;Month-to-month;Yes;2934.40;High Risk
+6388-TABGU;56.15;62;One year;No;3481.30;Low Risk
+9763-GRSKD;49.95;13;Month-to-month;No;649.35;Unknown Risk
+7469-LKBCI;18.95;16;Two year;No;303.20;Low Risk
+8091-TTVAX;100.35;58;One year;No;5820.30;Low Risk
+0280-XJGEX;103.70;49;Month-to-month;Yes;5081.30;High Risk
+5129-JLPIS;105.50;25;Month-to-month;No;2637.50;Unknown Risk
+3655-SNQYZ;113.25;69;Two year;No;7814.25;Low Risk
+8191-XWSZG;20.65;52;One year;No;1073.80;Low Risk
+9959-WOFKT;106.70;71;Two year;No;7575.70;Low Risk
+4190-MFLUW;55.20;10;Month-to-month;Yes;552.00;High Risk
+4183-MYFRB;90.05;21;Month-to-month;No;1891.05;Unknown Risk
+8779-QRDMV;39.65;1;Month-to-month;Yes;39.65;High Risk
+1680-VDCWW;19.80;12;One year;No;237.60;Low Risk
+1066-JKSGK;20.15;1;Month-to-month;Yes;20.15;High Risk
+3638-WEABW;59.90;58;Two year;No;3474.20;Low Risk
+6322-HRPFA;59.60;49;Month-to-month;No;2920.40;Unknown Risk
+6865-JZNKO;55.30;30;Month-to-month;No;1659.00;Unknown Risk
+6467-CHFZW;99.35;47;Month-to-month;Yes;4669.45;High Risk
+8665-UTDHZ;30.20;1;Month-to-month;Yes;30.20;High Risk
+5248-YGIJN;90.25;72;Two year;No;6498.00;Low Risk
+8773-HHUOZ;64.70;17;Month-to-month;Yes;1099.90;High Risk
+3841-NFECX;96.35;71;Two year;No;6840.85;Low Risk
+4929-XIHVW;95.50;2;Month-to-month;No;191.00;Medium Risk
+6827-IEAUQ;66.15;27;One year;No;1786.05;Low Risk
+7310-EGVHZ;20.20;1;Month-to-month;No;20.20;Medium Risk
+3413-BMNZE;45.25;1;Month-to-month;No;45.25;Medium Risk
+6234-RAAPL;99.90;72;Two year;No;7192.80;Low Risk
+6047-YHPVI;69.70;5;Month-to-month;Yes;348.50;High Risk
+6572-ADKRS;74.80;46;Month-to-month;No;3440.80;Unknown Risk
+5380-WJKOV;106.35;34;Month-to-month;Yes;3615.90;High Risk
+8168-UQWWF;97.85;11;Month-to-month;Yes;1076.35;High Risk
+8865-TNMNX;49.55;10;One year;No;495.50;Unknown Risk
+9489-DEDVP;69.20;70;Two year;No;4844.00;Low Risk
+9867-JCZSP;20.75;17;One year;No;352.75;Low Risk
+4671-VJLCL;79.85;63;Two year;No;5030.55;Low Risk
+4080-IIARD;76.20;13;Month-to-month;No;990.60;Unknown Risk
+3714-NTNFO;84.50;49;Month-to-month;No;4140.50;Unknown Risk
+5948-UJZLF;49.25;2;Month-to-month;No;98.50;Medium Risk
+7760-OYPDY;80.65;2;Month-to-month;Yes;161.30;High Risk
+7639-LIAYI;79.75;52;Two year;No;4147.00;Low Risk
+2954-PIBKO;64.15;69;Two year;No;4426.35;Low Risk
+8012-SOUDQ;90.25;43;Month-to-month;No;3880.75;Unknown Risk
+9420-LOJKX;99.10;15;Month-to-month;Yes;1486.50;High Risk
+6575-SUVOI;69.50;25;Month-to-month;No;1737.50;Unknown Risk
+7495-OOKFY;80.65;8;Month-to-month;Yes;645.20;High Risk
+4667-QONEA;74.85;60;One year;No;4491.00;Low Risk
+1658-BYGOY;95.45;18;Month-to-month;Yes;1718.10;High Risk
+8769-KKTPH;99.65;63;One year;No;6277.95;Low Risk
+5067-XJQFU;108.45;66;One year;No;7157.70;Low Risk
+3957-SQXML;24.95;34;Two year;No;848.30;Low Risk
+5954-BDFSG;107.50;72;Two year;No;7740.00;Low Risk
+0434-CSFON;100.50;47;Month-to-month;No;4723.50;Unknown Risk
+1215-FIGMP;89.90;60;Month-to-month;No;5394.00;Unknown Risk
+0526-SXDJP;42.10;72;Two year;No;3031.20;Low Risk
+0557-ASKVU;54.40;18;One year;No;979.20;Low Risk
+5698-BQJOH;94.40;9;Month-to-month;Yes;849.60;High Risk
+5122-CYFXA;75.30;3;Month-to-month;No;225.90;Medium Risk
+8627-ZYGSZ;78.90;47;One year;No;3708.30;Low Risk
+3410-YOQBQ;79.20;31;Two year;No;2455.20;Low Risk
+3170-NMYVV;20.15;50;Two year;No;1007.50;Low Risk
+7410-OIEDU;79.85;10;Month-to-month;No;798.50;Medium Risk
+2273-QCKXA;49.05;1;Month-to-month;No;49.05;Medium Risk
+0731-EBJQB;20.40;52;One year;No;1060.80;Low Risk
+1891-QRQSA;111.60;64;Two year;No;7142.40;Low Risk
+8028-PNXHQ;24.25;62;Two year;No;1503.50;Low Risk
+5630-AHZIL;64.50;3;Month-to-month;No;193.50;Medium Risk
+2673-CXQEU;110.50;56;One year;No;6188.00;Low Risk
+6416-JNVRK;55.65;46;One year;No;2559.90;Low Risk
+5590-ZSKRV;54.65;8;Month-to-month;No;437.20;Medium Risk
+0191-ZHSKZ;74.75;30;Month-to-month;No;2242.50;Unknown Risk
+3887-PBQAO;25.90;45;One year;No;1165.50;Low Risk
+5919-TMRGD;79.35;1;Month-to-month;Yes;79.35;High Risk
+8108-UXRQN;50.55;11;Month-to-month;No;556.05;Medium Risk
+9191-MYQKX;75.15;7;Month-to-month;Yes;526.05;High Risk
+9919-YLNNG;103.80;42;Month-to-month;No;4359.60;Unknown Risk
+0318-ZOPWS;20.15;49;Two year;No;987.35;Low Risk
+4445-ZJNMU;99.30;9;Month-to-month;No;893.70;Medium Risk
+4808-YNLEU;62.15;35;One year;No;2175.25;Low Risk
+1862-QRWPE;20.65;48;Two year;No;991.20;Low Risk
+2796-NNUFI;19.95;46;Two year;No;917.70;Low Risk
+3016-KSVCP;33.75;29;Month-to-month;No;978.75;Unknown Risk
+4767-HZZHQ;82.05;30;Month-to-month;No;2461.50;Unknown Risk
+2424-WVHPL;74.70;1;Month-to-month;No;74.70;Medium Risk
+7233-PAHHL;84.00;66;Two year;No;5544.00;Low Risk
+6067-NGCEU;111.05;65;Month-to-month;No;7218.25;Unknown Risk
+9848-JQJTX;100.90;72;Two year;No;7264.80;Low Risk
+8637-XJIVR;78.95;12;Month-to-month;Yes;947.40;High Risk
+9803-FTJCG;66.85;71;One year;No;4746.35;Low Risk
+0278-YXOOG;21.май;5;Month-to-month;Yes;105.25;High Risk
+3212-KXOCR;21.00;52;Two year;No;1092.00;Low Risk
+4598-XLKNJ;98.50;25;Month-to-month;Yes;2462.50;High Risk
+6380-ARCEH;20.20;1;Month-to-month;No;20.20;Medium Risk
+3679-XASPY;19.45;1;Month-to-month;No;19.45;Medium Risk
+7123-WQUHX;95.00;38;One year;No;3610.00;Low Risk
+5386-THSLQ;45.55;66;One year;No;3006.30;Low Risk
+3192-NQECA;110.00;68;Two year;Yes;7480.00;High Risk
+6180-YBIQI;24.30;5;Month-to-month;No;121.50;Medium Risk
+6728-DKUCO;104.15;72;One year;No;7498.80;Low Risk
+9750-BOOHV;30.15;32;One year;No;964.80;Low Risk
+8597-CWYHH;94.35;43;One year;No;4057.05;Low Risk
+2848-YXSMW;19.40;72;Two year;No;1396.80;Low Risk
+0486-HECZI;96.75;55;Month-to-month;Yes;5321.25;High Risk
+4549-ZDQYY;57.95;52;One year;No;3013.40;Low Risk
+5712-AHQNN;91.65;43;Month-to-month;No;3940.95;Unknown Risk
+4846-WHAFZ;76.50;37;Month-to-month;Yes;2830.50;High Risk
+5256-SKJGO;54.60;64;Two year;No;3494.40;Low Risk
+3071-VBYPO;89.85;3;Month-to-month;No;269.55;Medium Risk
+9560-BBZXK;31.май;36;Two year;No;1117.80;Low Risk
+5299-RULOA;100.25;10;Month-to-month;Yes;1002.50;High Risk
+8402-OOOHJ;20.65;41;Two year;No;846.65;Low Risk
+9445-ZUEQE;85.20;27;Month-to-month;No;2300.40;Unknown Risk
+1091-SOZGA;99.80;56;One year;No;5588.80;Low Risk
+2928-HLDBA;20.70;6;Month-to-month;No;124.20;Medium Risk
+0404-SWRVG;74.40;3;Month-to-month;Yes;223.20;High Risk
+6497-TILVL;50.70;7;Month-to-month;No;354.90;Medium Risk
+7219-TLZHO;20.85;4;Month-to-month;No;83.40;Medium Risk
+4622-YNKIJ;88.95;33;Two year;No;2935.35;Low Risk
+4412-YLTKF;78.05;27;Month-to-month;Yes;2107.35;High Risk
+6734-PSBAW;23.55;72;Two year;No;1695.60;Low Risk
+3930-ZGWVE;19.75;1;Month-to-month;No;19.75;Medium Risk
+2639-UGMAZ;56.45;71;One year;No;4007.95;Low Risk
+2876-GZYZC;85.95;13;Month-to-month;No;1117.35;Unknown Risk
+6207-WIOLX;58.60;25;Month-to-month;Yes;1465.00;High Risk
+8587-XYZSF;50.55;67;Two year;No;3386.85;Low Risk
+3091-FYHKI;35.45;1;Month-to-month;Yes;35.45;High Risk
+2372-HWUHI;44.35;2;Month-to-month;Yes;88.70;High Risk
+7799-LGRDP;25.70;43;Two year;No;1105.10;Low Risk
+7850-VWJUU;75.00;23;Month-to-month;No;1725.00;Unknown Risk
+3774-VBNXY;20.20;64;Two year;No;1292.80;Low Risk
+6217-KDYWC;19.60;57;Two year;No;1117.20;Low Risk
+0390-DCFDQ;70.45;1;Month-to-month;Yes;70.45;High Risk
+3146-MSEGF;88.05;72;Two year;No;6339.60;Low Risk
+4080-OGPJL;71.15;8;Month-to-month;Yes;569.20;High Risk
+1095-WGNGG;101.05;61;Two year;No;6164.05;Low Risk
+2636-SJDOU;84.30;64;One year;No;5395.20;Low Risk
+1131-QQZEB;23.95;71;Two year;No;1700.45;Low Risk
+5716-EZXZN;99.05;65;Two year;No;6438.25;Low Risk
+6837-BJYDQ;19.60;3;One year;No;58.80;Unknown Risk
+2135-RXIHG;45.65;1;Month-to-month;Yes;45.65;High Risk
+6440-DKQGE;64.50;30;One year;No;1935.00;Low Risk
+3466-BYAVD;69.50;15;Month-to-month;No;1042.50;Unknown Risk
+3780-YVMFA;68.55;8;Month-to-month;No;548.40;Medium Risk
+3874-EQOEP;95.00;7;Month-to-month;Yes;665.00;High Risk
+1679-JRFBR;108.15;70;One year;No;7570.50;Low Risk
+9073-ZZIAY;86.10;62;Two year;No;5338.20;Low Risk
+3077-RSNTJ;19.70;6;Month-to-month;No;118.20;Medium Risk
+6551-GNYDG;80.90;14;Month-to-month;No;1132.60;Unknown Risk
+9167-APMXZ;84.15;22;Month-to-month;No;1851.30;Unknown Risk
+2749-CTKAJ;20.15;22;One year;No;443.30;Low Risk
+6371-NZYEG;64.25;16;Two year;No;1028.00;Low Risk
+7554-NEWDD;25.70;10;Two year;No;257.00;Unknown Risk
+8992-VONJD;56.00;13;Month-to-month;No;728.00;Unknown Risk
+0867-MKZVY;82.40;20;Month-to-month;Yes;1648.00;High Risk
+4482-EWFMI;69.70;2;Month-to-month;No;139.40;Medium Risk
+4648-YPBTM;73.90;53;Two year;No;3916.70;Low Risk
+2907-ILJBN;20.60;11;One year;No;226.60;Unknown Risk
+6345-FZOQH;19.90;69;Two year;No;1373.10;Low Risk
+3376-BMGFE;70.90;4;Month-to-month;Yes;283.60;High Risk
+5997-OPVFA;89.05;72;Two year;No;6411.60;Low Risk
+3445-HXXGF;45.30;58;Month-to-month;Yes;2627.40;High Risk
+1159-WFSGR;20.40;16;Month-to-month;No;326.40;Unknown Risk
+7654-YWJUF;84.25;43;One year;No;3622.75;Low Risk
+1875-QIVME;104.40;2;Month-to-month;Yes;208.80;High Risk
+6727-IOTLZ;81.95;14;Two year;No;1147.30;Low Risk
+0691-JVSYA;94.85;53;One year;Yes;5027.05;High Risk
+5918-VUKWP;20.55;32;One year;No;657.60;Low Risk
+1744-JHKYS;24.70;34;Month-to-month;No;839.80;Unknown Risk
+2656-FMOKZ;74.45;15;Month-to-month;Yes;1116.75;High Risk
+2070-FNEXE;76.45;7;Month-to-month;Yes;535.15;High Risk
+5947-SGKCL;105.35;15;Month-to-month;No;1580.25;Unknown Risk
+3712-PKXZA;20.55;61;One year;No;1253.55;Low Risk
+6317-YPKDH;29.95;1;Month-to-month;Yes;29.95;High Risk
+6582-OIVSP;45.30;1;Month-to-month;No;45.30;Medium Risk
+9367-WXLCH;84.50;8;Month-to-month;Yes;676.00;High Risk
+5524-KHNJP;74.75;33;One year;No;2466.75;Low Risk
+1918-ZBFQJ;79.25;13;Month-to-month;Yes;1030.25;High Risk
+1024-GUALD;24.80;1;Month-to-month;Yes;24.80;High Risk
+4827-USJHP;51.80;20;Month-to-month;No;1036.00;Unknown Risk
+8167-GJLRN;30.40;3;Month-to-month;No;91.20;Medium Risk
+0956-SYCWG;19.65;13;One year;No;255.45;Low Risk
+8017-UVSZU;56.60;40;Month-to-month;No;2264.00;Unknown Risk
+7100-FQPRV;71.90;43;One year;No;3091.70;Low Risk
+2472-OVKUP;91.00;6;Month-to-month;Yes;546.00;High Risk
+2984-RGEYA;19.75;69;Two year;No;1362.75;Low Risk
+9680-NIAUV;109.70;72;Two year;No;7898.40;Low Risk
+2146-EGVDT;19.30;59;Two year;No;1138.70;Low Risk
+2604-IJPDU;96.55;20;Month-to-month;No;1931.00;Unknown Risk
+9178-JHUVJ;24.окт;24;Two year;No;578.40;Low Risk
+6168-YBYNP;111.35;59;Month-to-month;No;6569.65;Unknown Risk
+7255-SSFBC;112.25;72;Two year;No;8082.00;Low Risk
+3645-DEYGF;20.75;1;Month-to-month;No;20.75;Medium Risk
+9323-HGFWY;101.90;27;One year;No;2751.30;Low Risk
+8544-GOQSH;80.05;14;Month-to-month;No;1120.70;Unknown Risk
+3363-DTIVD;105.55;71;Two year;No;7494.05;Low Risk
+7018-WBJNK;78.30;13;Month-to-month;No;1017.90;Unknown Risk
+9142-KZXOP;68.85;44;Month-to-month;No;3029.40;Unknown Risk
+7674-YTAFD;79.95;33;One year;No;2638.35;Low Risk
+6348-SNFUS;55.45;72;Two year;No;3992.40;Low Risk
+1285-OKIPP;79.90;1;Month-to-month;Yes;79.90;High Risk
+7825-ECJRF;106.60;19;Month-to-month;Yes;2025.40;High Risk
+1347-KTTTA;102.45;64;One year;No;6556.80;Low Risk
+7841-TZDMQ;46.00;2;Month-to-month;Yes;92.00;High Risk
+4195-NZGTA;25.25;1;Month-to-month;No;25.25;Medium Risk
+7157-SMCFK;19.75;61;Two year;No;1204.75;Low Risk
+4709-LKHYG;20.00;29;One year;No;580.00;Low Risk
+2504-DSHIH;86.80;23;Month-to-month;No;1996.40;Unknown Risk
+0699-NDKJM;58.75;57;Month-to-month;No;3348.75;Unknown Risk
+9286-BHDQG;45.25;72;Two year;No;3258.00;Low Risk
+0230-WEQUW;56.60;66;Two year;No;3735.60;Low Risk
+2040-LDIWQ;84.20;65;Two year;No;5473.00;Low Risk
+6496-JDSSB;80.00;8;Month-to-month;No;640.00;Medium Risk
+9408-SSNVZ;70.15;4;Month-to-month;Yes;280.60;High Risk
+4443-EMBNA;24.75;71;Two year;No;1757.25;Low Risk
+6469-MRVET;20.20;1;One year;No;20.20;Unknown Risk
+0742-MOABM;50.05;4;Month-to-month;Yes;200.20;High Risk
+5961-VUSRV;19.35;12;One year;No;232.20;Low Risk
+6778-JFCMK;50.60;24;One year;No;1214.40;Low Risk
+6341-JVQGF;81.15;31;One year;No;2515.65;Low Risk
+2232-DMLXU;55.20;1;Month-to-month;Yes;55.20;High Risk
+4811-JBUVU;89.90;30;Month-to-month;No;2697.00;Unknown Risk
+0945-TSONX;85.30;47;Two year;No;4009.10;Low Risk
+2651-ZCBXV;108.00;54;Two year;No;5832.00;Low Risk
+3316-UWXUY;93.50;50;Month-to-month;No;4675.00;Unknown Risk
+8937-RDTHP;84.60;1;Month-to-month;Yes;84.60;High Risk
+7083-MIOPC;20.25;72;Two year;No;1458.00;Low Risk
+1984-GPTEH;25.15;29;Month-to-month;No;729.35;Unknown Risk
+1251-KRREG;54.40;2;Month-to-month;Yes;108.80;High Risk
+0621-JFHOL;29.60;10;Two year;No;296.00;Unknown Risk
+9903-LYSAB;73.15;18;Month-to-month;No;1316.70;Unknown Risk
+0094-OIFMO;95.00;11;Month-to-month;Yes;1045.00;High Risk
+9227-UAQFT;19.75;16;Two year;No;316.00;Low Risk
+7301-ABVAD;86.60;72;Two year;No;6235.20;Low Risk
+6614-FHDBO;109.20;72;Two year;No;7862.40;Low Risk
+7576-ASEJU;74.70;41;One year;No;3062.70;Low Risk
+9058-HRZSV;94.40;65;Month-to-month;No;6136.00;Unknown Risk
+4522-AKYLR;54.80;13;Month-to-month;No;712.40;Unknown Risk
+0221-WMXNQ;75.35;4;Month-to-month;No;301.40;Medium Risk
+0303-UNCIP;65.00;41;One year;No;2665.00;Low Risk
+9947-OTFQU;74.40;15;Month-to-month;Yes;1116.00;High Risk
+0322-YINQP;48.55;1;Month-to-month;Yes;48.55;High Risk
+0959-WHOKV;99.00;42;One year;No;4158.00;Low Risk
+4075-JFPGR;93.50;51;One year;No;4768.50;Low Risk
+4629-NRXKX;70.40;2;Month-to-month;Yes;140.80;High Risk
+9514-JDSKI;40.20;1;Month-to-month;Yes;40.20;High Risk
+3282-ZISZV;83.70;32;One year;No;2678.40;Low Risk
+3675-YDUPJ;19.85;10;Month-to-month;No;198.50;Medium Risk
+4111-BNXIF;59.55;67;Two year;No;3989.85;Low Risk
+7017-VFHAY;115.10;61;Two year;No;7021.10;Low Risk
+6655-LHBYW;114.35;50;One year;No;5717.50;Low Risk
+4959-JOSRX;44.60;2;Month-to-month;Yes;89.20;High Risk
+5046-NUHWD;45.00;29;Month-to-month;No;1305.00;Unknown Risk
+7273-TEFQD;41.15;3;Month-to-month;Yes;123.45;High Risk
+3606-TWKGI;106.90;13;Month-to-month;Yes;1389.70;High Risk
+7529-ZDFXI;89.85;57;Month-to-month;No;5121.45;Unknown Risk
+7605-BDWDC;49.85;31;Two year;No;1545.35;Low Risk
+1950-KSVVJ;113.30;45;One year;No;5098.50;Low Risk
+0123-CRBRT;88.10;61;Two year;No;5374.10;Low Risk
+6292-TOSSS;24.90;50;Two year;No;1245.00;Low Risk
+3197-ARFOY;105.00;19;Month-to-month;No;1995.00;Unknown Risk
+6323-AYBRX;19.35;59;Two year;Yes;1141.65;High Risk
+7014-ZZXAW;24.25;71;Two year;No;1721.75;Low Risk
+4385-GZQXV;94.45;16;Month-to-month;Yes;1511.20;High Risk
+7633-MVPUY;59.75;57;Two year;No;3405.75;Low Risk
+6366-ZGQGL;24.80;1;Month-to-month;Yes;24.80;High Risk
+4716-HHKQH;107.05;20;Month-to-month;No;2141.00;Unknown Risk
+5940-AHUHD;70.60;1;Month-to-month;Yes;70.60;High Risk
+6432-TWQLB;85.40;5;Month-to-month;Yes;427.00;High Risk
+4484-GLZOU;105.05;52;Month-to-month;Yes;5462.60;High Risk
+3179-GBRWV;64.95;21;Month-to-month;No;1363.95;Unknown Risk
+8645-KWHJO;55.00;14;Month-to-month;No;770.00;Unknown Risk
+4130-MZLCC;50.55;5;Month-to-month;No;252.75;Medium Risk
+0314-TKOSI;55.15;6;Month-to-month;No;330.90;Medium Risk
+8229-MYEJZ;51.20;10;Month-to-month;No;512.00;Medium Risk
+2080-SRCDE;25.40;1;Month-to-month;No;25.40;Medium Risk
+9577-WJVCQ;54.45;68;Month-to-month;No;3702.60;Unknown Risk
+9512-UIBFX;95.15;18;Month-to-month;Yes;1712.70;High Risk
+6202-DYYFX;76.00;22;One year;No;1672.00;Low Risk
+3808-HFKDE;44.35;20;Month-to-month;No;887.00;Unknown Risk
+5583-SXDAG;70.00;1;Month-to-month;Yes;70.00;High Risk
+3488-PGMQJ;74.50;8;Month-to-month;Yes;596.00;High Risk
+3580-REOAC;44.85;10;Month-to-month;Yes;448.50;High Risk
+7534-BFESC;76.10;24;Month-to-month;Yes;1826.40;High Risk
+3727-OWVYD;61.20;35;One year;No;2142.00;Low Risk
+2294-SALNE;86.80;23;One year;No;1996.40;Low Risk
+4847-TAJYI;89.35;6;Month-to-month;No;536.10;Medium Risk
+1563-IWQEX;19.70;12;Month-to-month;No;236.40;Unknown Risk
+8203-XJZRC;20.25;1;Month-to-month;No;20.25;Medium Risk
+6556-DBKZF;76.05;71;Two year;No;5399.55;Low Risk
+6851-WEFYX;100.80;35;Month-to-month;No;3528.00;Unknown Risk
+2985-JUUBZ;74.55;40;Month-to-month;No;2982.00;Unknown Risk
+6390-DSAZX;73.60;1;Month-to-month;Yes;73.60;High Risk
+0895-LMRSF;64.90;23;One year;No;1492.70;Low Risk
+8098-LLAZX;95.45;4;Month-to-month;Yes;381.80;High Risk
+8266-VBFQL;90.40;4;Month-to-month;No;361.60;Medium Risk
+8181-YHCMF;60.30;68;Two year;No;4100.40;Low Risk
+2240-HSJQD;81.85;38;Month-to-month;No;3110.30;Unknown Risk
+1248-DYXUB;24.80;52;Two year;No;1289.60;Low Risk
+0265-EDXBD;74.90;32;Month-to-month;Yes;2396.80;High Risk
+4115-BNPJY;75.55;29;Two year;No;2190.95;Low Risk
+3167-SNQPL;101.15;38;Month-to-month;No;3843.70;Unknown Risk
+4091-TVOCN;78.75;48;One year;No;3780.00;Low Risk
+1098-TDVUQ;19.25;1;Month-to-month;No;19.25;Medium Risk
+7277-OZCGZ;89.05;22;Month-to-month;No;1959.10;Unknown Risk
+1557-EMYVT;115.05;43;Two year;No;4947.15;Low Risk
+2799-ARNLO;69.35;5;Month-to-month;No;346.75;Medium Risk
+7563-BIUPC;80.60;5;Month-to-month;Yes;403.00;High Risk
+5027-YOCXN;110.05;51;One year;No;5612.55;Low Risk
+3973-SKMLN;19.90;71;Two year;No;1412.90;Low Risk
+2321-OMBXY;80.30;38;One year;Yes;3051.40;High Risk
+2840-XANRC;93.15;24;Month-to-month;Yes;2235.60;High Risk
+6745-JEFZB;91.50;35;Month-to-month;No;3202.50;Unknown Risk
+5020-ZSTTY;82.45;54;One year;Yes;4452.30;High Risk
+9880-TDQAC;60.00;72;Two year;No;4320.00;Low Risk
+8705-WZCYL;44.80;1;Month-to-month;No;44.80;Medium Risk
+7102-JJVTX;48.60;9;One year;No;437.40;Unknown Risk
+8626-PTQGE;60.05;69;Two year;No;4143.45;Low Risk
+4983-CLMLV;102.70;52;Month-to-month;No;5340.40;Unknown Risk
+5701-YVSVF;82.90;11;Month-to-month;No;911.90;Medium Risk
+5804-LEPIM;70.35;2;Month-to-month;Yes;140.70;High Risk
+5697-GOMBF;35.90;28;Month-to-month;No;1005.20;Unknown Risk
+2739-CACDQ;82.65;17;Month-to-month;No;1405.05;Unknown Risk
+9385-EHGDO;19.85;35;Two year;No;694.75;Low Risk
+9498-FIMXL;19.20;8;One year;No;153.60;Unknown Risk
+2379-GYFLQ;94.90;46;One year;No;4365.40;Low Risk
+0122-OAHPZ;73.85;7;Month-to-month;Yes;516.95;High Risk
+2868-SNELZ;80.60;2;Month-to-month;Yes;161.20;High Risk
+4322-RCYMT;75.80;68;One year;Yes;5154.40;High Risk
+6680-NENYN;104.60;43;Two year;Yes;4497.80;High Risk
+2088-IEBAU;88.15;68;Two year;No;5994.20;Low Risk
+7982-VCELR;94.80;36;Month-to-month;No;3412.80;Unknown Risk
+1343-EHPYB;103.40;63;Month-to-month;Yes;6514.20;High Risk
+6035-BXTTY;54.65;32;Month-to-month;No;1748.80;Unknown Risk
+6885-PKOAM;85.75;71;Two year;No;6088.25;Low Risk
+7520-HQWJU;67.45;66;Month-to-month;No;4451.70;Unknown Risk
+9639-BUJXT;20.50;63;One year;No;1291.50;Low Risk
+5924-SNGKP;20.25;41;One year;No;830.25;Low Risk
+0021-IKXGC;72.10;1;Month-to-month;No;72.10;Medium Risk
+2034-GDRCN;90.40;2;Month-to-month;Yes;180.80;High Risk
+8966-SNIZF;19.45;70;Two year;No;1361.50;Low Risk
+6243-OZGFH;44.95;23;Month-to-month;No;1033.85;Unknown Risk
+4654-DLAMQ;97.00;64;One year;No;6208.00;Low Risk
+0513-RBGPE;62.80;37;Two year;No;2323.60;Low Risk
+5160-UXJED;44.60;17;One year;No;758.20;Low Risk
+4115-NZRKS;89.15;7;Month-to-month;No;624.05;Medium Risk
+0219-YTZUE;84.80;4;Month-to-month;Yes;339.20;High Risk
+0623-IIHUG;41.90;21;Month-to-month;Yes;879.90;High Risk
+4572-DVCGN;80.25;10;Month-to-month;Yes;802.50;High Risk
+3351-NGXYI;54.10;16;Month-to-month;No;865.60;Unknown Risk
+8984-EYLLL;105.25;64;Two year;No;6736.00;Low Risk
+9057-MSWCO;30.75;27;Month-to-month;Yes;830.25;High Risk
+9833-TGFHX;97.10;42;One year;No;4078.20;Low Risk
+9294-TDIPC;20.20;5;Month-to-month;No;101.00;Medium Risk
+5229-DTFYB;98.80;41;Two year;No;4050.80;Low Risk
+0104-PPXDV;50.30;58;One year;No;2917.40;Low Risk
+5176-LMJXE;20.55;47;Two year;No;965.85;Low Risk
+3583-KRKMD;75.90;18;Month-to-month;No;1366.20;Unknown Risk
+1010-DIAUQ;96.50;5;Month-to-month;Yes;482.50;High Risk
+9069-LGEUL;59.95;23;Month-to-month;No;1378.85;Unknown Risk
+7302-ZHMHP;19.15;1;Month-to-month;No;19.15;Medium Risk
+9571-EDEBV;98.65;71;One year;No;7004.15;Low Risk
+3520-FJGCV;112.60;72;Two year;No;8107.20;Low Risk
+6563-VRERX;20.60;33;One year;No;679.80;Low Risk
+0259-GBZSH;85.65;2;Month-to-month;Yes;171.30;High Risk
+6122-EFVKN;35.75;24;Two year;No;858.00;Low Risk
+2805-EDJPQ;99.75;56;One year;No;5586.00;Low Risk
+6862-CQUMB;96.10;37;Month-to-month;No;3555.70;Unknown Risk
+7156-MXBJE;85.10;43;One year;No;3659.30;Low Risk
+6158-HDPXZ;25.35;1;Month-to-month;No;25.35;Medium Risk
+9601-BRXPO;104.95;25;Month-to-month;Yes;2623.75;High Risk
+2863-IMQDR;89.65;61;Two year;No;5468.65;Low Risk
+5686-CMAWK;86.75;17;One year;No;1474.75;Low Risk
+5651-CRHKQ;86.20;41;One year;No;3534.20;Low Risk
+6905-NIQIN;50.65;1;Month-to-month;Yes;50.65;High Risk
+8204-YJCLA;64.80;72;Two year;No;4665.60;Low Risk
+5167-ZFFMM;90.85;1;Month-to-month;Yes;90.85;High Risk
+6583-SZVGP;108.10;48;Two year;No;5188.80;Low Risk
+4895-TMWIR;19.95;11;Month-to-month;Yes;219.45;High Risk
+0533-BNWKF;85.45;55;Month-to-month;Yes;4699.75;High Risk
+1708-PBBOA;54.75;42;One year;No;2299.50;Low Risk
+8782-LKFPK;90.40;44;Month-to-month;No;3977.60;Unknown Risk
+5522-JBWMO;44.00;1;Month-to-month;No;44.00;Medium Risk
+3597-MVHJT;95.60;27;Month-to-month;No;2581.20;Unknown Risk
+9774-NRNAU;84.80;27;Month-to-month;No;2289.60;Unknown Risk
+0224-RLWWD;44.30;2;Month-to-month;No;88.60;Medium Risk
+9967-ATRFS;19.90;19;Month-to-month;No;378.10;Unknown Risk
+3951-NJCVI;95.05;42;Month-to-month;No;3992.10;Unknown Risk
+2977-CEBSX;90.05;66;Two year;No;5943.30;Low Risk
+0177-PXBAT;109.90;33;Month-to-month;No;3626.70;Unknown Risk
+6599-CEBNN;73.95;34;Month-to-month;Yes;2514.30;High Risk
+2519-ERQOJ;54.60;33;Month-to-month;No;1801.80;Unknown Risk
+5876-QMYLD;20.май;23;One year;No;461.15;Low Risk
+2277-AXSDC;19.75;32;One year;No;632.00;Low Risk
+9442-JTWDL;20.май;11;One year;No;220.55;Unknown Risk
+0979-PHULV;99.45;69;Month-to-month;Yes;6862.05;High Risk
+3067-SVMTC;55.90;68;One year;No;3801.20;Low Risk
+5495-GPSRW;19.70;20;Two year;No;394.00;Low Risk
+7606-BPHHN;19.80;72;Two year;No;1425.60;Low Risk
+4742-DRORA;95.40;60;One year;No;5724.00;Low Risk
+0111-KLBQG;93.95;32;Month-to-month;No;3006.40;Unknown Risk
+4800-VHZKI;19.90;1;Month-to-month;Yes;19.90;High Risk
+7989-CHGTL;19.60;1;Month-to-month;Yes;19.60;High Risk
+0334-GDDSO;81.35;3;Month-to-month;Yes;244.05;High Risk
+4163-NCJAK;24.45;46;One year;No;1124.70;Low Risk
+5233-AOZUF;74.95;29;Month-to-month;No;2173.55;Unknown Risk
+5973-EJGDP;87.35;51;Month-to-month;No;4454.85;Unknown Risk
+1996-DBMUS;70.65;48;Month-to-month;No;3391.20;Unknown Risk
+7916-VCCPB;73.25;16;Month-to-month;No;1172.00;Unknown Risk
+4686-GEFRM;98.70;70;Two year;No;6909.00;Low Risk
+5249-QYHEX;24.80;40;Two year;No;992.00;Low Risk
+0578-SKVMF;83.30;22;Month-to-month;Yes;1832.60;High Risk
+5564-NEMQO;75.30;1;Month-to-month;Yes;75.30;High Risk
+2233-FAGXV;24.30;5;Month-to-month;No;121.50;Medium Risk
+5605-IYGFG;69.85;7;Month-to-month;No;488.95;Medium Risk
+7663-ZTEGJ;100.55;29;One year;No;2915.95;Low Risk
+3935-TBRZZ;25.70;44;One year;No;1130.80;Low Risk
+8111-BKVDS;40.70;10;Month-to-month;No;407.00;Medium Risk
+2055-SIFSS;51.65;55;Month-to-month;No;2840.75;Unknown Risk
+2806-MLNTI;105.10;52;One year;No;5465.20;Low Risk
+8734-DKSTZ;85.95;10;Month-to-month;No;859.50;Medium Risk
+4360-PNRQB;75.60;18;Month-to-month;No;1360.80;Unknown Risk
+6152-ONASV;58.25;68;One year;No;3961.00;Low Risk
+9063-ZGTUY;19.40;61;Month-to-month;Yes;1183.40;High Risk
+7781-HVGMK;65.20;72;Two year;No;4694.40;Low Risk
+2181-UAESM;53.45;2;Month-to-month;No;106.90;Medium Risk
+2957-LOLHO;45.40;12;Month-to-month;Yes;544.80;High Risk
+6048-NJXHX;19.75;41;Two year;No;809.75;Low Risk
+2320-SLKMB;44.45;26;Month-to-month;No;1155.70;Unknown Risk
+4980-URKXC;20.85;36;One year;No;750.60;Low Risk
+4376-KFVRS;114.05;72;Two year;No;8211.60;Low Risk
+5886-VLQVU;89.85;35;Month-to-month;No;3144.75;Unknown Risk
+3577-AMVUX;55.05;1;Month-to-month;No;55.05;Medium Risk
+0771-WLCLA;112.95;16;Month-to-month;No;1807.20;Unknown Risk
+5628-RKIFK;101.55;49;Month-to-month;No;4975.95;Unknown Risk
+0206-TBWLC;114.65;54;One year;No;6191.10;Low Risk
+2937-FTHUR;64.80;18;Month-to-month;No;1166.40;Unknown Risk
+1910-FMXJM;80.40;36;Month-to-month;No;2894.40;Unknown Risk
+7752-XUSCI;105.90;60;Month-to-month;Yes;6354.00;High Risk
+4110-PFEUZ;69.55;1;Month-to-month;Yes;69.55;High Risk
+0732-OCQOC;25.май;52;Two year;No;1302.60;Low Risk
+5168-MSWXT;94.75;8;Month-to-month;No;758.00;Medium Risk
+1090-ESELR;105.50;72;Two year;No;7596.00;Low Risk
+8592-PLTMQ;24.70;64;One year;No;1580.80;Low Risk
+5760-WRAHC;69.75;22;Month-to-month;No;1534.50;Unknown Risk
+8847-GEOOQ;60.20;60;Month-to-month;No;3612.00;Unknown Risk
+0256-LTHVJ;81.05;28;Month-to-month;Yes;2269.40;High Risk
+4785-FCIFB;24.40;61;Two year;No;1488.40;Low Risk
+8313-NDOIA;104.15;24;Month-to-month;No;2499.60;Unknown Risk
+5149-CUZUJ;92.90;28;One year;No;2601.20;Low Risk
+0942-KOWSM;80.80;30;Two year;No;2424.00;Low Risk
+4237-CLSMM;20.00;2;Month-to-month;No;40.00;Medium Risk
+1452-VOQCH;75.10;1;Month-to-month;No;75.10;Medium Risk
+4719-UMSIY;19.65;6;Month-to-month;No;117.90;Medium Risk
+6614-VBEGU;69.45;24;Month-to-month;No;1666.80;Unknown Risk
+0880-TKATG;101.15;4;Month-to-month;Yes;404.60;High Risk
+3811-VBYBZ;99.80;7;Month-to-month;Yes;698.60;High Risk
+1480-BKXGA;116.05;72;Two year;No;8355.60;Low Risk
+2996-XAUVF;40.05;70;Two year;No;2803.50;Low Risk
+9076-AXYIK;102.10;64;Two year;No;6534.40;Low Risk
+5968-XQIVE;89.70;72;One year;No;6458.40;Low Risk
+8896-RAZCR;19.90;44;Two year;No;875.60;Low Risk
+4640-UHDOS;55.95;13;Month-to-month;Yes;727.35;High Risk
+4933-IKULF;20.65;17;One year;No;351.05;Low Risk
+3583-EKAPL;55.00;1;Month-to-month;Yes;55.00;High Risk
+1304-BCCFO;70.05;9;Month-to-month;No;630.45;Medium Risk
+4104-PVRPS;53.60;24;Month-to-month;No;1286.40;Unknown Risk
+9399-APLBT;74.70;1;Month-to-month;Yes;74.70;High Risk
+2359-KMGLI;80.25;24;Month-to-month;Yes;1926.00;High Risk
+3780-DDGSE;76.05;35;Month-to-month;No;2661.75;Unknown Risk
+4431-EDMIQ;75.70;7;Month-to-month;No;529.90;Medium Risk
+0306-JAELE;96.10;5;Month-to-month;Yes;480.50;High Risk
+6227-HWPWX;69.00;15;Month-to-month;Yes;1035.00;High Risk
+0486-LGCCH;19.65;11;Two year;No;216.15;Unknown Risk
+0447-BEMNG;45.30;48;Month-to-month;Yes;2174.40;High Risk
+4612-SSVHJ;81.45;20;Month-to-month;No;1629.00;Unknown Risk
+5168-MQQCA;108.50;72;One year;No;7812.00;Low Risk
+5949-XIKAE;83.55;8;Month-to-month;Yes;668.40;High Risk
+7971-HLVXI;84.50;72;Two year;No;6084.00;Low Risk
+9094-AZPHK;100.15;15;Month-to-month;No;1502.25;Unknown Risk
+3649-JPUGY;88.60;72;Two year;No;6379.20;Low Risk
+4472-LVYGI;52.55;0;Two year;No;0.00;Unknown Risk
+8372-JUXUI;74.35;1;Month-to-month;Yes;74.35;High Risk
+3552-CTCYF;104.80;63;Two year;No;6602.40;Low Risk
+6778-YSNIH;59.00;2;Month-to-month;No;118.00;Medium Risk
+0388-EOPEX;74.40;2;Month-to-month;Yes;148.80;High Risk
+5756-OZRIO;64.05;61;One year;No;3907.05;Low Risk
+6579-JPICP;20.40;1;Month-to-month;No;20.40;Medium Risk
+8205-OTCHB;43.75;22;One year;Yes;962.50;High Risk
+4134-BSXLX;60.90;28;Month-to-month;No;1705.20;Unknown Risk
+0505-SPOOW;19.80;70;Two year;No;1386.00;Low Risk
+6235-VDHOM;28.45;5;Month-to-month;Yes;142.25;High Risk
+7783-YKGDV;99.70;12;Month-to-month;Yes;1196.40;High Risk
+4374-YMUSQ;116.25;34;One year;No;3952.50;Low Risk
+4513-CXYIX;80.70;71;Two year;No;5729.70;Low Risk
+3957-HHLMR;65.20;70;One year;No;4564.00;Low Risk
+7803-XOCCZ;84.05;52;Month-to-month;No;4370.60;Unknown Risk
+5736-YEJAX;79.45;69;Two year;No;5482.05;Low Risk
+5609-CEBID;94.10;20;Month-to-month;Yes;1882.00;High Risk
+8981-FJGLA;78.00;11;Month-to-month;No;858.00;Medium Risk
+7218-HKQFK;94.20;2;Month-to-month;Yes;188.40;High Risk
+4636-QRJKY;80.50;6;Month-to-month;Yes;483.00;High Risk
+1135-LMECX;19.85;1;Month-to-month;No;19.85;Medium Risk
+4332-MUOEZ;94.30;20;One year;No;1886.00;Low Risk
+8535-SFUTN;106.45;61;Month-to-month;No;6493.45;Unknown Risk
+5956-VKDTT;74.35;5;Month-to-month;Yes;371.75;High Risk
+8677-HDZEE;105.45;56;Month-to-month;No;5905.20;Unknown Risk
+2475-MROZF;95.00;30;Month-to-month;No;2850.00;Unknown Risk
+9412-GHEEC;104.80;40;Month-to-month;Yes;4192.00;High Risk
+3482-ABPKK;54.30;28;One year;No;1520.40;Low Risk
+6705-LXORM;70.05;5;Month-to-month;No;350.25;Medium Risk
+0257-ZESQC;75.20;27;Month-to-month;Yes;2030.40;High Risk
+7531-GQHME;20.май;12;Month-to-month;No;240.60;Unknown Risk
+5174-ITUMV;105.40;67;One year;No;7061.80;Low Risk
+4109-CYRBD;51.60;29;Month-to-month;No;1496.40;Unknown Risk
+0913-XWSCN;85.50;55;Month-to-month;No;4702.50;Unknown Risk
+6825-UYPFK;75.60;23;Month-to-month;Yes;1738.80;High Risk
+8397-MVTAZ;100.05;34;Month-to-month;Yes;3401.70;High Risk
+0750-EBAIU;91.25;52;One year;No;4745.00;Low Risk
+8606-CIQUL;115.75;72;Two year;No;8334.00;Low Risk
+3571-DPYUH;94.70;58;One year;No;5492.60;Low Risk
+7601-GNDYK;19.60;35;Two year;No;686.00;Low Risk
+0356-OBMAC;99.90;56;Two year;No;5594.40;Low Risk
+8067-NIOYM;21.окт;24;Two year;No;506.40;Low Risk
+1403-GYAFU;20.май;70;Two year;No;1403.50;Low Risk
+4234-XTNEA;79.95;2;Month-to-month;No;159.90;Medium Risk
+1297-VQDRP;107.15;68;One year;No;7286.20;Low Risk
+9282-IZGQK;85.00;1;Month-to-month;Yes;85.00;High Risk
+5348-CAGXB;89.55;12;Month-to-month;No;1074.60;Unknown Risk
+0621-HJWXJ;81.55;63;Month-to-month;No;5137.65;Unknown Risk
+5844-QVTAT;58.45;33;One year;No;1928.85;Low Risk
+8905-IAZPF;95.65;69;One year;No;6599.85;Low Risk
+5394-MEITZ;80.60;60;Two year;No;4836.00;Low Risk
+6859-QNXIQ;113.10;72;Two year;No;8143.20;Low Risk
+2782-LFZVW;58.95;11;Month-to-month;No;648.45;Medium Risk
+2866-IKBTM;19.55;1;Month-to-month;No;19.55;Medium Risk
+1342-JPNKI;86.05;10;Month-to-month;Yes;860.50;High Risk
+2817-NTQDO;45.55;13;Month-to-month;Yes;592.15;High Risk
+7129-AZJDE;78.95;34;One year;No;2684.30;Low Risk
+6986-IJDHX;86.30;39;Month-to-month;Yes;3365.70;High Risk
+2560-PPCHE;105.05;65;One year;No;6828.25;Low Risk
+4676-MQUEA;101.90;50;One year;No;5095.00;Low Risk
+8138-EALND;19.75;15;Month-to-month;No;296.25;Unknown Risk
+3580-HYCSP;110.30;72;Two year;No;7941.60;Low Risk
+1352-HNSAW;115.60;72;Two year;No;8323.20;Low Risk
+2075-PUEPR;19.35;55;Two year;No;1064.25;Low Risk
+1982-FEBTD;25.60;23;Two year;No;588.80;Low Risk
+5301-GAUUY;80.35;32;Month-to-month;Yes;2571.20;High Risk
+5791-KAJFD;68.75;56;One year;No;3850.00;Low Risk
+2654-VBVPB;19.90;1;Month-to-month;No;19.90;Medium Risk
+1154-HYWWO;70.60;38;One year;No;2682.80;Low Risk
+2501-XWWTZ;70.20;11;Month-to-month;No;772.20;Medium Risk
+3716-UVSPD;49.30;1;Month-to-month;No;49.30;Medium Risk
+6815-ABQFQ;107.25;56;One year;No;6006.00;Low Risk
+7343-EOBEU;23.60;3;Month-to-month;No;70.80;Medium Risk
+3701-SFMUH;69.70;7;Month-to-month;No;487.90;Medium Risk
+6103-LIANB;99.50;59;Two year;No;5870.50;Low Risk
+7319-VENRZ;64.30;7;Month-to-month;No;450.10;Medium Risk
+5846-NEQVZ;70.85;71;Two year;No;5030.35;Low Risk
+6967-QIQRV;101.90;15;One year;No;1528.50;Low Risk
+5781-RFZRP;73.50;71;Two year;No;5218.50;Low Risk
+0939-YAPAF;100.25;35;Month-to-month;Yes;3508.75;High Risk
+0308-IVGOK;40.40;11;One year;No;444.40;Unknown Risk
+7293-LSCDV;19.25;60;Two year;No;1155.00;Low Risk
+7025-WCBNE;59.60;47;Two year;No;2801.20;Low Risk
+5756-JYOJT;64.90;11;One year;No;713.90;Unknown Risk
+4710-FDUIZ;100.30;56;One year;Yes;5616.80;High Risk
+6030-REHUX;110.85;28;Month-to-month;No;3103.80;Unknown Risk
+9548-LIGTA;81.05;61;Two year;No;4944.05;Low Risk
+5150-LJNSR;98.05;31;One year;No;3039.55;Low Risk
+8270-RKSAP;70.50;9;Month-to-month;No;634.50;Medium Risk
+6522-YRBXD;94.55;35;Month-to-month;No;3309.25;Unknown Risk
+2640-LYMOV;19.65;2;Month-to-month;No;39.30;Medium Risk
+1218-VKFPE;19.00;12;Month-to-month;Yes;228.00;High Risk
+3627-FHKBK;75.30;1;Month-to-month;Yes;75.30;High Risk
+2865-TCHJW;89.20;4;Month-to-month;Yes;356.80;High Risk
+1423-BMPBQ;19.00;1;Month-to-month;No;19.00;Medium Risk
+2393-DIVAI;20.00;3;Month-to-month;No;60.00;Medium Risk
+5192-EBGOV;85.70;1;Month-to-month;Yes;85.70;High Risk
+4568-KNYWR;63.25;52;Two year;No;3289.00;Low Risk
+8752-IMQOS;20.окт;5;One year;No;100.50;Unknown Risk
+0742-LAFQK;99.15;72;Two year;No;7138.80;Low Risk
+0795-LAFGP;90.40;71;Two year;No;6418.40;Low Risk
+0619-OLYUR;111.90;72;Two year;No;8056.80;Low Risk
+5512-IDZEI;24.90;46;One year;No;1145.40;Low Risk
+0459-SPZHJ;83.50;63;Two year;No;5260.50;Low Risk
+0215-BQKGS;84.30;30;Month-to-month;No;2529.00;Unknown Risk
+9244-ZVAPM;45.60;1;Month-to-month;No;45.60;Medium Risk
+0719-SYFRB;61.65;12;Month-to-month;Yes;739.80;High Risk
+8208-EUMTE;54.85;16;Two year;No;877.60;Low Risk
+5172-MIGPM;65.55;4;Month-to-month;No;262.20;Medium Risk
+1710-RCXUS;90.35;51;One year;No;4607.85;Low Risk
+0374-FIUCA;20.40;65;Two year;No;1326.00;Low Risk
+5839-SUYVZ;74.55;16;Month-to-month;No;1192.80;Unknown Risk
+5173-ZXXXL;19.95;2;One year;No;39.90;Unknown Risk
+1096-ADRUX;74.25;66;One year;No;4900.50;Low Risk
+2001-MCUUW;108.65;46;Two year;No;4997.90;Low Risk
+2731-GJRDG;109.55;32;One year;No;3505.60;Low Risk
+4723-BEGSG;86.65;72;Two year;No;6238.80;Low Risk
+6516-NKQBO;81.00;38;Two year;No;3078.00;Low Risk
+8672-OAUPW;47.85;51;One year;No;2440.35;Low Risk
+8207-DMRVL;114.55;72;Two year;No;8247.60;Low Risk
+3419-SNJJD;105.25;65;Month-to-month;Yes;6841.25;High Risk
+6543-CPZMK;29.95;9;Month-to-month;Yes;269.55;High Risk
+4765-OXPPD;65.00;9;Month-to-month;Yes;585.00;High Risk
+2804-ETQDK;20.55;66;Two year;No;1356.30;Low Risk
+6689-VRRTK;109.80;44;One year;No;4831.20;Low Risk
+7138-GIRSH;69.50;50;Two year;No;3475.00;Low Risk
+9396-ZSFLL;48.85;15;Month-to-month;No;732.75;Unknown Risk
+6464-KEXXH;25.25;8;Month-to-month;No;202.00;Medium Risk
+7134-MJPDY;102.85;66;One year;No;6788.10;Low Risk
+5240-CAOYT;87.55;57;Month-to-month;No;4990.35;Unknown Risk
+4059-IIEBK;78.55;7;Month-to-month;No;549.85;Medium Risk
+4881-JVQOD;34.55;10;Month-to-month;No;345.50;Medium Risk
+0516-UXRMT;92.05;62;One year;No;5707.10;Low Risk
+4851-BQDNX;85.05;40;One year;No;3402.00;Low Risk
+5148-HKFIR;19.70;20;Two year;No;394.00;Low Risk
+1009-IRMNA;20.00;7;Month-to-month;Yes;140.00;High Risk
+3003-CMDUU;95.15;25;Month-to-month;No;2378.75;Unknown Risk
+5016-IBERQ;84.25;23;Month-to-month;No;1937.75;Unknown Risk
+6797-UCJHZ;104.60;66;One year;No;6903.60;Low Risk
+2469-DTSGX;111.65;72;Two year;No;8038.80;Low Risk
+4554-YGZIH;90.05;49;Month-to-month;Yes;4412.45;High Risk
+5099-BAILX;110.75;43;Month-to-month;Yes;4762.25;High Risk
+9931-KGHOA;55.00;46;Month-to-month;No;2530.00;Unknown Risk
+1775-KWJKQ;89.85;72;Two year;No;6469.20;Low Risk
+7665-VIGUD;20.35;10;One year;No;203.50;Unknown Risk
+9411-TPQQV;54.55;40;One year;No;2182.00;Low Risk
+7207-RMRDB;105.50;65;Month-to-month;Yes;6857.50;High Risk
+7954-MLBUN;99.45;31;Two year;No;3082.95;Low Risk
+2077-DDHJK;70.90;68;Two year;No;4821.20;Low Risk
+4913-EHYUI;104.55;56;One year;Yes;5854.80;High Risk
+0195-IESCP;85.25;10;Month-to-month;Yes;852.50;High Risk
+9574-BOSMD;25.40;68;Two year;No;1727.20;Low Risk
+4580-TMHJU;56.15;43;Month-to-month;Yes;2414.45;High Risk
+0970-ETWGE;89.55;1;Month-to-month;Yes;89.55;High Risk
+4908-XAXAY;89.85;49;One year;No;4402.65;Low Risk
+8404-VLQFB;25.25;15;Month-to-month;No;378.75;Unknown Risk
+1626-ERCMM;94.55;20;Month-to-month;Yes;1891.00;High Risk
+0887-HJGAR;45.70;1;Month-to-month;Yes;45.70;High Risk
+2391-IPLOP;69.65;50;One year;No;3482.50;Low Risk
+5644-PDMZC;89.50;2;Month-to-month;Yes;179.00;High Risk
+3509-GWQGF;70.00;24;Month-to-month;No;1680.00;Unknown Risk
+9576-ANLXO;69.55;3;Month-to-month;Yes;208.65;High Risk
+2024-BASKD;74.60;1;Month-to-month;Yes;74.60;High Risk
+5845-BZZIB;20.окт;35;Two year;No;703.50;Low Risk
+1140-UKVZG;24.80;17;Month-to-month;No;421.60;Unknown Risk
+4160-AMJTL;19.65;8;Month-to-month;Yes;157.20;High Risk
+5183-SNMJQ;95.10;10;Month-to-month;No;951.00;Medium Risk
+8100-PNJMH;88.85;68;Two year;No;6041.80;Low Risk
+7838-LAZFO;78.80;45;One year;No;3546.00;Low Risk
+4464-JCOLN;19.85;2;One year;Yes;39.70;High Risk
+2085-JVGAD;20.35;37;Month-to-month;No;752.95;Unknown Risk
+5650-VDUDS;24.25;4;Month-to-month;Yes;97.00;High Risk
+8095-WANWK;45.25;10;Month-to-month;No;452.50;Medium Risk
+3030-ZKIWL;20.май;1;Month-to-month;No;20.май;Medium Risk
+9565-FLVCG;69.55;65;Two year;No;4520.75;Low Risk
+8755-OGKNA;19.50;57;Two year;No;1111.50;Low Risk
+2800-VEQXM;74.75;3;Month-to-month;No;224.25;Medium Risk
+7538-GWHML;69.65;2;Month-to-month;Yes;139.30;High Risk
+5533-RJFTJ;30.20;49;Month-to-month;No;1479.80;Unknown Risk
+3859-CVCET;45.65;4;Month-to-month;Yes;182.60;High Risk
+0214-JHPFW;57.80;70;Two year;No;4046.00;Low Risk
+5642-MHDQT;19.85;53;One year;No;1052.05;Low Risk
+3088-FVYWK;25.55;53;Two year;No;1354.15;Low Risk
+3276-HDUEG;75.05;1;Month-to-month;Yes;75.05;High Risk
+9092-GDZKO;24.85;22;Month-to-month;No;546.70;Unknown Risk
+0823-HSCDJ;49.15;52;Month-to-month;Yes;2555.80;High Risk
+3729-OWRVL;110.35;65;Two year;No;7172.75;Low Risk
+2324-AALNO;24.55;48;One year;No;1178.40;Low Risk
+0822-GAVAP;34.70;2;Month-to-month;Yes;69.40;High Risk
+5760-IFJOZ;107.95;3;Month-to-month;No;323.85;Medium Risk
+2826-UWHIS;81.40;45;Month-to-month;No;3663.00;Unknown Risk
+1448-PWKYE;80.00;1;Month-to-month;Yes;80.00;High Risk
+7501-IWUNG;73.80;61;Two year;No;4501.80;Low Risk
+4957-TREIR;64.40;3;Month-to-month;No;193.20;Medium Risk
+7251-LJBQN;103.75;40;One year;No;4150.00;Low Risk
+8040-MNRTF;71.10;1;Month-to-month;No;71.10;Medium Risk
+1536-HBSWP;49.90;1;Month-to-month;No;49.90;Medium Risk
+5313-FPXWG;24.60;51;One year;No;1254.60;Low Risk
+0067-DKWBL;49.25;2;Month-to-month;Yes;98.50;High Risk
+0946-FKYTX;30.окт;52;One year;No;1565.20;Low Risk
+5076-YVXCM;83.40;51;Month-to-month;No;4253.40;Unknown Risk
+8262-COGGB;20.45;1;Month-to-month;No;20.45;Medium Risk
+6663-JOCQO;75.25;31;One year;No;2332.75;Low Risk
+9620-QJREV;20.55;47;One year;No;965.85;Low Risk
+2276-YDAVZ;75.10;3;Month-to-month;Yes;225.30;High Risk
+2682-KEVRP;20.май;22;One year;No;441.10;Low Risk
+2480-JZOSN;20.65;1;Month-to-month;No;20.65;Medium Risk
+0078-XZMHT;85.15;72;Two year;No;6130.80;Low Risk
+5896-NPFWW;50.15;3;Month-to-month;Yes;150.45;High Risk
+9978-HYCIN;84.95;47;One year;No;3992.65;Low Risk
+8338-QIUNR;66.50;72;Two year;No;4788.00;Low Risk
+1525-LNLOJ;63.30;66;Two year;No;4177.80;Low Risk
+9450-TRJUU;83.15;35;Month-to-month;No;2910.25;Unknown Risk
+1766-GKNMI;84.90;29;Month-to-month;No;2462.10;Unknown Risk
+6942-LBFDP;20.55;2;Month-to-month;No;41.10;Medium Risk
+1456-TWCGB;49.25;4;Month-to-month;No;197.00;Medium Risk
+7133-VBDCG;79.85;25;Month-to-month;Yes;1996.25;High Risk
+7596-ZYWBB;59.60;65;Two year;No;3874.00;Low Risk
+8329-UTMVM;104.65;27;One year;No;2825.55;Low Risk
+3014-WJKSM;75.30;29;Month-to-month;No;2183.70;Unknown Risk
+3347-YJZZE;80.10;29;Month-to-month;No;2322.90;Unknown Risk
+1029-QFBEN;19.55;1;Month-to-month;Yes;19.55;High Risk
+7929-DMBCV;81.00;20;Month-to-month;No;1620.00;Unknown Risk
+9661-JALZV;24.70;58;Two year;No;1432.60;Low Risk
+5433-KYGHE;86.00;14;Month-to-month;No;1204.00;Unknown Risk
+4312-KFRXN;25.40;72;Two year;No;1828.80;Low Risk
+5575-TPIZQ;89.15;46;Month-to-month;No;4100.90;Unknown Risk
+0114-IGABW;58.25;71;Two year;No;4135.75;Low Risk
+9944-AEXBM;85.65;32;Month-to-month;No;2740.80;Unknown Risk
+1853-ARAAQ;50.35;26;Month-to-month;No;1309.10;Unknown Risk
+6952-OMNWB;80.35;68;Month-to-month;No;5463.80;Unknown Risk
+4697-LUPSU;20.20;2;One year;No;40.40;Unknown Risk
+8434-VGEQQ;20.55;61;Two year;No;1253.55;Low Risk
+4952-YSOGZ;85.95;4;Month-to-month;Yes;343.80;High Risk
+1589-AGTLK;45.35;3;Month-to-month;Yes;136.05;High Risk
+5244-IRFIH;94.50;33;Month-to-month;Yes;3118.50;High Risk
+6549-YMFAW;21.25;9;Month-to-month;No;191.25;Medium Risk
+4950-HKQTE;26.25;22;Two year;No;577.50;Low Risk
+6786-OBWQR;80.85;5;Month-to-month;No;404.25;Medium Risk
+2684-EIWEO;91.70;30;Month-to-month;Yes;2751.00;High Risk
+2753-JMMCV;74.20;65;Two year;No;4823.00;Low Risk
+6439-GTPCA;87.25;45;Month-to-month;Yes;3926.25;High Risk
+6621-YOBKI;20.35;5;Month-to-month;No;101.75;Medium Risk
+1216-JWVUX;75.50;25;Month-to-month;No;1887.50;Unknown Risk
+7564-GHCVB;79.05;72;Two year;No;5691.60;Low Risk
+1173-NOEYG;90.15;27;Month-to-month;No;2434.05;Unknown Risk
+7595-EHCDL;50.60;32;Month-to-month;No;1619.20;Unknown Risk
+6647-ZEDXT;110.45;30;One year;No;3313.50;Low Risk
+2521-NPUZR;101.00;70;Two year;No;7070.00;Low Risk
+1307-TVUFB;79.35;42;Month-to-month;No;3332.70;Unknown Risk
+7503-MIOGA;89.85;72;Two year;No;6469.20;Low Risk
+4381-MHQDC;65.00;47;Two year;No;3055.00;Low Risk
+6923-JHPMP;80.45;2;Month-to-month;No;160.90;Medium Risk
+5138-WVKYJ;98.55;10;Month-to-month;Yes;985.50;High Risk
+4018-PPNDW;24.окт;61;Two year;No;1470.10;Low Risk
+1635-FJFCC;44.05;5;Month-to-month;No;220.25;Medium Risk
+2499-AJYUA;110.80;72;Two year;No;7977.60;Low Risk
+6919-ELBGL;114.95;72;Two year;No;8276.40;Low Risk
+3966-HRMZA;75.05;3;Month-to-month;No;225.15;Medium Risk
+6425-JWTDV;19.25;48;Two year;No;924.00;Low Risk
+8405-IGQFX;90.05;63;One year;No;5673.15;Low Risk
+8224-IVVPA;56.70;27;Month-to-month;No;1530.90;Unknown Risk
+9477-LGWQI;80.15;70;Two year;No;5610.50;Low Risk
+1410-RSCMR;71.35;7;Month-to-month;No;499.45;Medium Risk
+3115-CZMZD;20.25;0;Two year;No;0.00;Unknown Risk
+0139-IVFJG;90.35;2;Month-to-month;No;180.70;Medium Risk
+6683-VLCTZ;98.55;20;Month-to-month;Yes;1971.00;High Risk
+5730-DBDSI;19.70;66;Two year;No;1300.20;Low Risk
+0030-FNXPP;19.85;3;Month-to-month;No;59.55;Medium Risk
+2189-WWOEW;85.90;15;Month-to-month;Yes;1288.50;High Risk
+5684-FJVYR;90.35;72;Two year;No;6505.20;Low Risk
+4013-GUXND;20.80;1;Month-to-month;No;20.80;Medium Risk
+1894-IGFSG;89.25;22;Month-to-month;Yes;1963.50;High Risk
+7379-POKDZ;70.30;3;Month-to-month;Yes;210.90;High Risk
+1266-NZYUI;66.85;72;Two year;No;4813.20;Low Risk
+7969-FFOWG;19.90;65;Two year;No;1293.50;Low Risk
+4718-DHSMV;35.80;11;Month-to-month;No;393.80;Medium Risk
+5175-WLYXL;78.85;22;Month-to-month;No;1734.70;Unknown Risk
+7817-OMJNA;20.40;14;One year;No;285.60;Low Risk
+8728-SKJLR;74.25;41;Month-to-month;No;3044.25;Unknown Risk
+3137-NYQQI;64.80;17;One year;No;1101.60;Low Risk
+7706-DZNKK;20.45;11;Month-to-month;No;224.95;Medium Risk
+0236-HFWSV;93.35;15;Month-to-month;Yes;1400.25;High Risk
+3900-AQPHZ;19.90;1;Month-to-month;Yes;19.90;High Risk
+5842-POCOP;88.90;5;Month-to-month;Yes;444.50;High Risk
+2037-XJFUP;95.80;33;One year;Yes;3161.40;High Risk
+8823-RLPWL;110.65;72;Two year;No;7966.80;Low Risk
+9505-SQFSW;40.30;3;Month-to-month;No;120.90;Medium Risk
+7314-OXENN;82.00;2;Month-to-month;Yes;164.00;High Risk
+3758-CKOQL;107.00;59;One year;No;6313.00;Low Risk
+0322-CHQRU;45.35;2;Month-to-month;Yes;90.70;High Risk
+5676-CFLYY;73.35;71;Two year;No;5207.85;Low Risk
+7521-AFHAB;44.80;5;Month-to-month;No;224.00;Medium Risk
+0285-INHLN;54.75;27;Month-to-month;No;1478.25;Unknown Risk
+4678-DVQEO;52.20;1;Month-to-month;Yes;52.20;High Risk
+5125-CNDSP;40.60;63;One year;No;2557.80;Low Risk
+0691-IFBQW;110.00;46;One year;Yes;5060.00;High Risk
+4992-LTJNE;55.30;72;Two year;No;3981.60;Low Risk
+2202-OUTMO;60.85;34;Month-to-month;No;2068.90;Unknown Risk
+0810-BDHAW;78.40;24;One year;No;1881.60;Low Risk
+0229-LFJAF;69.65;72;Two year;No;5014.80;Low Risk
+7131-ZQZNK;59.85;60;Two year;No;3591.00;Low Risk
+3442-ZHHCC;76.90;68;One year;No;5229.20;Low Risk
+5726-CVNYA;19.85;8;Two year;No;158.80;Unknown Risk
+9871-ELEYA;67.65;34;Two year;No;2300.10;Low Risk
+4257-GAESD;45.00;6;Month-to-month;No;270.00;Medium Risk
+5173-WXOQV;64.20;2;Month-to-month;No;128.40;Medium Risk
+2040-OBMLJ;81.70;31;One year;No;2532.70;Low Risk
+6286-ZHAOK;25.55;20;Month-to-month;No;511.00;Unknown Risk
+3807-XHCJH;20.00;1;Month-to-month;No;20.00;Medium Risk
+3009-JWMPU;96.75;62;One year;Yes;5998.50;High Risk
+5671-RQRLP;75.65;70;Two year;No;5295.50;Low Risk
+1450-GALXR;98.50;10;Month-to-month;Yes;985.00;High Risk
+8859-AXJZP;23.80;39;Two year;No;928.20;Low Risk
+3174-AKMAS;64.20;46;Two year;No;2953.20;Low Risk
+3138-BKYAV;85.35;6;Month-to-month;Yes;512.10;High Risk
+9926-PJHDQ;76.80;72;Two year;No;5529.60;Low Risk
+7382-DFJTU;55.20;18;Month-to-month;No;993.60;Unknown Risk
+2798-NYLMZ;108.55;71;Two year;No;7707.05;Low Risk
+4289-DTDKW;101.30;40;Month-to-month;Yes;4052.00;High Risk
+1820-TQVEV;69.55;1;Month-to-month;Yes;69.55;High Risk
+2239-JALAW;103.25;58;One year;Yes;5988.50;High Risk
+4853-RULSV;104.00;70;Two year;Yes;7280.00;High Risk
+8098-TDCBU;25.25;42;Two year;No;1060.50;Low Risk
+3551-GAEGL;30.40;34;One year;No;1033.60;Low Risk
+4785-NKHCX;20.май;5;Month-to-month;No;100.25;Medium Risk
+3196-NVXLZ;84.60;25;Month-to-month;No;2115.00;Unknown Risk
+6275-YDUVO;86.20;2;Month-to-month;Yes;172.40;High Risk
+0036-IHMOT;103.70;55;One year;No;5703.50;Low Risk
+0115-TFERT;111.20;21;Month-to-month;Yes;2335.20;High Risk
+4178-EGMON;88.00;70;Two year;No;6160.00;Low Risk
+4220-TINQT;106.35;61;Month-to-month;No;6487.35;Unknown Risk
+5318-YKDPV;79.15;43;Two year;No;3403.45;Low Risk
+7975-TZMLR;103.10;47;One year;No;4845.70;Low Risk
+0295-QVKPB;63.95;5;Month-to-month;No;319.75;Medium Risk
+4335-BSMJS;25.80;62;Two year;No;1599.60;Low Risk
+2311-QYMUQ;89.45;16;Month-to-month;Yes;1431.20;High Risk
+3643-AHCFP;95.60;7;Month-to-month;Yes;669.20;High Risk
+9146-JRIOX;25.55;14;Month-to-month;No;357.70;Unknown Risk
+3104-OWCGK;90.95;60;One year;Yes;5457.00;High Risk
+5337-IIWKZ;44.85;34;Month-to-month;No;1524.90;Unknown Risk
+9101-BWFSS;108.55;50;One year;Yes;5427.50;High Risk
+9650-VBUOG;25.май;38;Two year;No;951.90;Low Risk
+3487-EARAT;74.10;70;One year;No;5187.00;Low Risk
+2672-TGEFF;88.80;37;Month-to-month;No;3285.60;Unknown Risk
+9231-ZJYAM;78.85;4;Month-to-month;Yes;315.40;High Risk
+4250-WAROZ;93.25;60;Month-to-month;No;5595.00;Unknown Risk
+8184-WMOFI;71.40;62;One year;No;4426.80;Low Risk
+6982-SSHFK;44.40;1;Month-to-month;Yes;44.40;High Risk
+6092-QZVPP;79.20;36;Month-to-month;No;2851.20;Unknown Risk
+4625-LAMOB;20.40;44;Two year;No;897.60;Low Risk
+0727-BMPLR;100.00;55;One year;Yes;5500.00;High Risk
+0392-BZIUW;105.00;72;Two year;No;7560.00;Low Risk
+1038-ZAGBI;19.80;12;One year;Yes;237.60;High Risk
+6549-NNDYT;30.85;13;Month-to-month;No;401.05;Unknown Risk
+3027-ZTDHO;89.90;1;Month-to-month;Yes;89.90;High Risk
+0422-OHQHQ;20.55;15;One year;No;308.25;Low Risk
+6916-HIJSE;84.85;65;Two year;No;5515.25;Low Risk
+2316-ESMLS;33.15;12;One year;No;397.80;Low Risk
+9778-OGKQZ;92.00;72;Two year;No;6624.00;Low Risk
+7408-OFWXJ;89.80;72;Two year;No;6465.60;Low Risk
+6007-TCTST;115.80;72;Two year;No;8337.60;Low Risk
+2252-NKNSI;85.15;52;Two year;No;4427.80;Low Risk
+8713-IGZSO;24.85;2;Month-to-month;No;49.70;Medium Risk
+7905-TVXTA;64.35;5;Month-to-month;No;321.75;Medium Risk
+7695-PKLCZ;20.50;68;Two year;No;1394.00;Low Risk
+2382-BCKQJ;100.15;62;One year;Yes;6209.30;High Risk
+8374-UULRV;86.05;72;Two year;No;6195.60;Low Risk
+2207-NHRJK;50.80;1;Month-to-month;Yes;50.80;High Risk
+3224-DFQNQ;89.00;66;One year;No;5874.00;Low Risk
+5275-PMFUT;64.80;72;Two year;No;4665.60;Low Risk
+4795-UXVCJ;19.80;26;One year;No;514.80;Low Risk
+9777-IQHWP;93.40;64;Two year;No;5977.60;Low Risk
+0947-MUGVO;73.65;20;Month-to-month;Yes;1473.00;High Risk
+9944-HKVVB;95.10;3;Month-to-month;Yes;285.30;High Risk
+4124-MMETB;94.65;22;Month-to-month;Yes;2082.30;High Risk
+3671-SHRSP;80.60;4;Month-to-month;Yes;322.40;High Risk
+0979-MOZQI;39.00;62;Two year;No;2418.00;Low Risk
+2732-ISEZX;20.50;5;Month-to-month;No;102.50;Medium Risk
+3313-QKNKB;85.55;59;One year;Yes;5047.45;High Risk
+0323-XWWTN;26.40;3;Two year;No;79.20;Unknown Risk
+1937-OTUKY;98.20;72;Two year;No;7070.40;Low Risk
+1573-LGXBA;97.55;57;One year;No;5560.35;Low Risk
+1764-VUUMT;19.95;66;Two year;No;1316.70;Low Risk
+5073-WXOYN;50.80;60;Month-to-month;Yes;3048.00;High Risk
+4713-ZBURT;99.70;45;Two year;No;4486.50;Low Risk
+3050-GBUSH;34.80;3;Month-to-month;No;104.40;Medium Risk
+0207-MDKNV;105.10;15;Month-to-month;Yes;1576.50;High Risk
+7876-AEHIG;60.15;51;One year;No;3067.65;Low Risk
+7945-HLKEA;64.75;60;One year;No;3885.00;Low Risk
+9342-VNIMQ;54.65;33;Month-to-month;No;1803.45;Unknown Risk
+9851-KIELU;110.10;10;Month-to-month;Yes;1101.00;High Risk
+3523-BRGUW;19.30;26;One year;No;501.80;Low Risk
+3908-BLSYF;83.90;6;Month-to-month;Yes;503.40;High Risk
+3199-NPKCN;111.25;67;One year;No;7453.75;Low Risk
+5170-PTRKA;35.80;49;One year;No;1754.20;Low Risk
+4661-NJEUX;20.май;1;Month-to-month;No;20.май;Medium Risk
+2123-AGEEN;84.35;7;Month-to-month;No;590.45;Medium Risk
+1258-YMZNM;110.50;27;One year;No;2983.50;Low Risk
+0048-LUMLS;91.20;37;One year;No;3374.40;Low Risk
+7549-MYGPK;100.55;63;Month-to-month;Yes;6334.65;High Risk
+5898-IGSLP;89.30;31;Month-to-month;No;2768.30;Unknown Risk
+3804-RVTGV;103.85;50;Month-to-month;Yes;5192.50;High Risk
+6259-WJQLC;81.10;32;Month-to-month;No;2595.20;Unknown Risk
+9227-LUNBG;24.60;1;Month-to-month;Yes;24.60;High Risk
+7997-EASSD;81.20;63;One year;No;5115.60;Low Risk
+0730-KOAVE;94.30;30;Month-to-month;No;2829.00;Unknown Risk
+8975-SKGRX;116.10;71;Two year;No;8243.10;Low Risk
+0678-RLHVP;105.55;53;Two year;No;5594.15;Low Risk
+4315-MURBD;98.90;12;Month-to-month;Yes;1186.80;High Risk
+2267-FPIMA;94.40;50;Month-to-month;No;4720.00;Unknown Risk
+1051-GEJLJ;19.50;2;Month-to-month;No;39.00;Medium Risk
+9734-YWGEX;98.30;9;Month-to-month;Yes;884.70;High Risk
+2719-BDAQO;93.85;17;Month-to-month;Yes;1595.45;High Risk
+5285-MVEHD;105.60;56;One year;No;5913.60;Low Risk
+0379-DJQHR;81.35;67;Two year;No;5450.45;Low Risk
+0781-LKXBR;100.50;9;Month-to-month;Yes;904.50;High Risk
+5543-QDCRY;56.40;4;Month-to-month;No;225.60;Medium Risk
+0297-RBCSG;65.35;19;One year;No;1241.65;Low Risk
+4694-PHWFW;19.95;8;Month-to-month;No;159.60;Medium Risk
+0835-JKADZ;111.25;71;Two year;No;7898.75;Low Risk
+1907-UBQFC;72.85;10;Month-to-month;Yes;728.50;High Risk
+7508-SMHXL;89.00;15;Month-to-month;No;1335.00;Unknown Risk
+3865-YIOTT;106.10;72;One year;No;7639.20;Low Risk
+5993-BQHEA;20.май;12;One year;No;240.60;Low Risk
+6024-RUGGH;25.20;72;Two year;No;1814.40;Low Risk
+6513-EECDB;73.55;1;Month-to-month;Yes;73.55;High Risk
+3956-CJUST;75.40;23;Month-to-month;No;1734.20;Unknown Risk
+4079-WWQQQ;65.55;72;Two year;No;4719.60;Low Risk
+6103-BOCOU;80.70;26;Month-to-month;No;2098.20;Unknown Risk
+5149-TGWDZ;104.55;21;One year;No;2195.55;Low Risk
+7471-WNSUF;24.15;60;One year;No;1449.00;Low Risk
+8942-DBMHZ;20.45;12;Month-to-month;No;245.40;Unknown Risk
+4301-VVZKA;75.40;16;Month-to-month;No;1206.40;Unknown Risk
+9199-PWQVC;79.70;63;One year;No;5021.10;Low Risk
+4824-GUCBY;81.70;22;Month-to-month;No;1797.40;Unknown Risk
+5393-HJZSM;76.30;32;Month-to-month;No;2441.60;Unknown Risk
+7074-IEVOJ;79.40;3;Month-to-month;Yes;238.20;High Risk
+9625-QSTYE;81.15;13;Month-to-month;Yes;1054.95;High Risk
+0862-PRCBS;103.75;68;Two year;No;7055.00;Low Risk
+8812-ZRHFP;86.45;30;One year;No;2593.50;Low Risk
+5146-CBVOE;75.10;16;Month-to-month;No;1201.60;Unknown Risk
+0454-OKRCT;80.60;33;Two year;No;2659.80;Low Risk
+5787-KXGIY;19.30;72;Two year;No;1389.60;Low Risk
+4750-ZRXIU;84.60;4;Month-to-month;Yes;338.40;High Risk
+4198-VFOEA;33.60;12;One year;No;403.20;Low Risk
+6630-UJZMY;83.25;4;Month-to-month;No;333.00;Medium Risk
+5709-LVOEQ;80.85;0;Two year;No;0.00;Unknown Risk
+6400-BWQKW;79.05;6;Month-to-month;Yes;474.30;High Risk
+2692-AQCPF;108.05;65;One year;No;7023.25;Low Risk
+0347-UBKUZ;19.90;15;Month-to-month;No;298.50;Unknown Risk
+0835-DUUIQ;21.май;24;One year;No;505.20;Low Risk
+0811-GSDTP;30.15;13;Month-to-month;No;391.95;Unknown Risk
+7567-ECMCM;79.85;24;Month-to-month;No;1916.40;Unknown Risk
+6115-ZTBFQ;65.50;72;Two year;No;4716.00;Low Risk
+6353-BRMMA;104.10;54;Month-to-month;No;5621.40;Unknown Risk
+6680-WKXRZ;74.40;3;Month-to-month;Yes;223.20;High Risk
+6231-WFGFH;20.50;4;Month-to-month;No;82.00;Medium Risk
+9904-EHEVJ;91.35;32;Month-to-month;No;2923.20;Unknown Risk
+7028-DVOIQ;99.05;35;Month-to-month;Yes;3466.75;High Risk
+6169-PPETC;20.50;35;Two year;No;717.50;Low Risk
+4208-UFFGW;44.95;2;Month-to-month;Yes;89.90;High Risk
+8584-KMVXD;75.60;8;Month-to-month;No;604.80;Medium Risk
+8467-WYNSR;55.10;22;Month-to-month;No;1212.20;Unknown Risk
+0851-DFJKB;58.95;15;Month-to-month;No;884.25;Unknown Risk
+5382-SOYZL;95.10;22;Month-to-month;No;2092.20;Unknown Risk
+9448-REEVD;44.70;1;Month-to-month;Yes;44.70;High Risk
+3261-CQXOL;25.45;71;Two year;No;1806.95;Low Risk
+8388-FYNPZ;56.75;4;Month-to-month;No;227.00;Medium Risk
+4002-BQWPQ;81.75;25;Month-to-month;No;2043.75;Unknown Risk
+5651-YLPRD;86.10;32;Month-to-month;No;2755.20;Unknown Risk
+2826-DXLQO;29.80;7;Month-to-month;No;208.60;Medium Risk
+4378-BZYFP;20.50;17;One year;No;348.50;Low Risk
+9489-UTFKA;60.90;8;Month-to-month;No;487.20;Medium Risk
+4849-PYRLQ;73.25;56;Two year;No;4102.00;Low Risk
+9117-SHLZX;45.70;1;Month-to-month;Yes;45.70;High Risk
+9889-TMAHG;100.30;8;Month-to-month;Yes;802.40;High Risk
+4541-RMRLG;19.25;7;Month-to-month;Yes;134.75;High Risk
+7764-BDPEE;20.85;3;Month-to-month;No;62.55;Medium Risk
+3429-IFLEM;77.35;71;Two year;No;5491.85;Low Risk
+3158-MOERK;96.00;2;Month-to-month;Yes;192.00;High Risk
+7294-TMAOP;90.55;1;Month-to-month;Yes;90.55;High Risk
+5002-GCQFH;93.85;49;Month-to-month;No;4598.65;Unknown Risk
+0556-FJEGU;70.10;58;Two year;No;4065.80;Low Risk
+8919-FYFQZ;30.35;44;Month-to-month;Yes;1335.40;High Risk
+0604-THJFP;75.95;59;Two year;No;4481.05;Low Risk
+2834-JRTUA;108.05;71;Two year;Yes;7671.55;High Risk
+5875-YPQFJ;69.90;1;Month-to-month;Yes;69.90;High Risk
+5879-SESNB;75.25;11;Month-to-month;No;827.75;Medium Risk
+6646-QVXLR;103.75;62;One year;Yes;6432.50;High Risk
+6461-PPAXN;54.95;35;One year;No;1923.25;Low Risk
+3318-ISQFQ;19.50;20;Month-to-month;No;390.00;Unknown Risk
+1106-HRLKZ;19.60;40;Two year;No;784.00;Low Risk
+2483-XSSMZ;47.85;39;One year;No;1866.15;Low Risk
+8603-IJWDN;86.60;1;Month-to-month;Yes;86.60;High Risk
+8165-ZJRNM;23.75;72;Two year;No;1710.00;Low Risk
+9369-XFEHK;80.60;33;Month-to-month;Yes;2659.80;High Risk
+2604-XVDAM;43.80;12;Month-to-month;No;525.60;Unknown Risk
+3717-OFRTN;19.75;1;Month-to-month;No;19.75;Medium Risk
+9046-JBFWA;19.15;27;Month-to-month;No;517.05;Unknown Risk
+3280-NMUVX;19.60;34;One year;No;666.40;Low Risk
+1206-EHBDD;80.30;56;Two year;No;4496.80;Low Risk
+8361-LBRDI;24.35;58;Two year;No;1412.30;Low Risk
+4883-KCPZJ;25.25;22;Two year;No;555.50;Low Risk
+9108-EQPNQ;26.окт;10;Two year;No;261.00;Unknown Risk
+7277-KAMWT;20.00;13;Two year;No;260.00;Low Risk
+3842-IYKUE;85.30;35;Month-to-month;Yes;2985.50;High Risk
+6641-XRPSU;70.00;34;Month-to-month;Yes;2380.00;High Risk
+1374-DMZUI;94.30;4;Month-to-month;Yes;377.20;High Risk
+2545-LXYVJ;20.70;72;Two year;No;1490.40;Low Risk
+3234-VKACU;70.30;2;Month-to-month;No;140.60;Medium Risk
