@@ -1,0 +1,7 @@
+﻿customer_id;order_id;order_date;order_value;product_category;country
+C001;O1001;2024-01-15;120.50;Electronics;Bulgaria
+C001;O1023;2024-03-22;89.99;Home & Garden;Bulgaria
+C002;O1002;2024-02-10;45.00;Books;Greece
+C003;O1003;2024-04-05;300.00;Fashion;Bulgaria
+C003;O1055;2024-07-19;150.00;Fashion;Bulgaria
+C004;O1004;2024-01-30;75.00;Sports Equipment;Romania
